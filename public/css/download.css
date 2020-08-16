@@ -1,0 +1,125 @@
+.pageBody fieldset
+{
+	border: dotted 1px #00B503;
+	z-index: 1;
+	margin: 0 0 20px 0!important;
+	text-align: center;
+	clear: both;
+}
+.pageBody legend
+{
+	padding: 0 15px 0 5px;
+	background-color: white;
+	z-index: 2;
+	color: #00B503;
+	font: bold 1.3em "Trebuchet MS" Verdana Geneva Arial Helvetica sans-serif;
+}
+.pageBody legend img
+{
+	vertical-align: middle;
+	margin-right: 5px;
+}
+.pageBody fieldset ul
+{
+	text-align: left;
+	list-style-type: none;
+}
+.pageBody li
+{
+	vertical-align: middle;
+	margin-bottom: 5px;
+}
+.pageBody fieldset li input
+{
+	vertical-align: middle;
+}
+.pageBody fieldset label
+{
+	font-size: 110%;
+	font-weight: bold;
+}
+.pageBody fieldset label img
+{
+	vertical-align: middle;
+	margin: 0 3px 0 3px;
+}
+.pageBody fieldset label span
+{
+	font-size: 80%;
+	margin-left: 40px;
+}
+.pageBody #OtherItem
+{
+	margin-top: 15px;
+}
+.pageBody fieldset iframe
+{
+	width: 95%;
+	margin: 5px auto 10px auto;
+	height: 150px;
+}
+.pageBody button
+{
+	height: 30px;
+	border: solid 0 white;
+	padding: 0;
+	cursor: hand;
+	cursor: pointer;
+	background-color: transparent;
+	background-repeat: no-repeat;
+	margin-right: 10px!important;
+}
+#AcceptButton
+{
+	width: 100px;
+	background-image: url(/images/download/accept.gif);
+}
+#AcceptButton:hover, #AcceptButton:focus
+{
+	background-image: url(/images/download/accept-hot.gif);
+}
+#CancelButton
+{
+	width: 140px;
+	background-image: url(/images/download/dontaccept.gif);
+}
+#CancelButton:hover, #CancelButton:focus
+{
+	background-image: url(/images/download/dontaccept-hot.gif);
+}
+.pageBody #AcceptButton
+{
+	margin-left: 40px;
+}
+/* Downloading ... */
+h2.progress
+{
+	border-bottom: none;
+	font-size: 200%;
+	text-align: center;
+	padding-bottom: 20px;
+	background: url(/images/download/flashing-dots.gif) no-repeat center bottom;
+}
+.pageBody h3
+{
+	color: #0356B6;
+	font-size: 125%;
+	margin-top: 30px;
+	margin-left: 10px;
+}
+#supplementalDownloads hr
+{
+	height: 1px;
+	color: Silver;
+	border-bottom: dotted 2px silver;
+	border-left: none 0;
+	border-right: none 0;
+	border-top: none 0;
+	clear: both;
+	width: 80%;
+	margin: 15px auto 15px auto;
+}
+#supplementalDownloads li a
+{
+	font-weight: bold;
+}

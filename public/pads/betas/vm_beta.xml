@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION></MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR></MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO></MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>VyPRESS Research, LLC</Company_Name>
+		<Address_1>16192 Coastal Hwy</Address_1>
+		<Address_2 />
+		<City_Town>Lewes</City_Town>
+		<State_Province>Delaware</State_Province>
+		<Zip_Postal_Code>19958</Zip_Postal_Code>
+		<Country>USA</Country>
+		<Company_WebSite_URL>http://www.vypress.com</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>VyPRESS Research</Author_First_Name>
+			<Author_Last_Name>, LLC</Author_Last_Name>
+			<Author_Email>support@vypress.com</Author_Email>
+			<Contact_First_Name>VyPRESS Research</Contact_First_Name>
+			<Contact_Last_Name>, LLC</Contact_Last_Name>
+			<Contact_Email>support@vypress.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>sales@vypress.com</Sales_Email>
+			<Support_Email>support@vypress.com</Support_Email>
+			<General_Email>support@vypress.com</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone>+1 (508) 526-5876</Fax_Phone>
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Vypress Messenger</Program_Name>
+		<Program_Version>4.8</Program_Version>
+		<Program_Release_Month>06</Program_Release_Month>
+		<Program_Release_Day>06</Program_Release_Day>
+		<Program_Release_Year>2011</Program_Release_Year>
+		<Program_Cost_Dollars>19.90</Program_Cost_Dollars>
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Shareware</Program_Type>
+		<Program_Release_Status>Major Update</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win2000,Win7 x32,Win7 x64,Win98,WinServer,WinVista,WinVista x64,WinXP</Program_OS_Support>
+		<Program_Language>English,Russian</Program_Language>
+		<Program_Change_Info>Vypress Messenger 4.8 is fully Unicode compatible. All messages are sent as Unicode encoded by default. IPv6 network protocol support was added. The Logging feature was improved. Now Logging to XML files and over SOAP is supported. 64 bits version is also available.</Program_Change_Info>
+		<Program_Specific_Category>Internet</Program_Specific_Category>
+		<Program_Category_Class>Communications::Chat &amp; Instant Messaging</Program_Category_Class>
+		<Program_System_Requirements>8 MB RAM, 2 MB HDD space, a LAN connection</Program_System_Requirements>
+		<File_Info>
+			<File_Size_Bytes>1999872</File_Size_Bytes>
+			<File_Size_K>1953</File_Size_K>
+			<File_Size_MB>1.90</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>Y</Has_Expire_Info>
+			<Expire_Count>31</Expire_Count>
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>winpopup,network,lan,instant,messaging,vypress,broadcast,chat,message,real-time,wan</Keywords>
+			<Char_Desc_45>Send and receive network messages instantly</Char_Desc_45>
+			<Char_Desc_80>Peer-to-peer instant messaging and files transfering for LANs/WANs/intranets</Char_Desc_80>
+			<Char_Desc_250>It is the real-time messaging system specifically designed for business Intranets. Using a peer-to-peer architecture, it delivers text messages from workstation to workstation at real-time, without the typical delay associated with e-mail.</Char_Desc_250>
+			<Char_Desc_450>Vypress Messenger lets you instantly exchange text messages with other users across the Internet or any TCP/IP network. This utility is an excellent replacement for the "WinPopup" utility that comes with Windows. It is compatible with the SMB protocol, which allows messages to be received from Windows 95/98 WinPopup, Windows NT Messenger Service, Linux and Novell NetWare. There are message filtering options and a mail notification option.</Char_Desc_450>
+			<Char_Desc_2000>Vypress Messenger is a program for sending text messages with attachments in real-time, without using any additional servers, from one computer to another or a few others.
+
+The program supports several messages transferring protocols, including its own protocol, for guaranteed distribution of direct messages, using a TCP protocol and a multiple-address file distribution, using UDP and IP Multicast. Besides this, the program supports a standard SMB protocol (for compatibility with WinPopup, ‘net send’ and Unix-realizations Samba) and mail broadcasting via SMTP protocol, as well as receiving new mail via POP3/IMAP4 protocols.
+
+The main benefit of the program is its fault-tolerance and independency from the network infrastructure. Vypress Messenger has been originally developed and specially optimized for LAN. It doesn’t use staging servers, and that way the user can send and receive a message even if all of the company’s servers are out of service due to some breakdown or an external attack. Vypress Messenger can automatically scan the network to obtain the computer addresses and also lets you select the addresses from a local or centralized address book or ever manually enter the IP addresses or the addresses of subnetworks for messages distribution. For special circumstances, the program provides the ability of sending high-priority messages and creating macros for sending out preset messages with a single mouse click.
+
+The program also contains advanced methods of messages logging and searching, multi-lingual interface (English, Spanish, German, Russian and Italian) and many other useful functions.</Char_Desc_2000>
+		</English>
+		<Russian>
+			<Keywords>winpopup, vypress, общение в локальной сети, отсылка сообщений, послать сообщение, обмен файлами, сетевой мессенджер</Keywords>
+			<Char_Desc_45>Функциональная программа для общения по LAN</Char_Desc_45>
+			<Char_Desc_80>Удобная и мощная программа для обмена сообщениями и файлами по локальным сетям</Char_Desc_80>
+			<Char_Desc_250>Программа для обмена текстовыми сообщениями и файлами по сети. Позволяет быстро отправлять сообщения и файлы, с поддержкой двух уровней важности, системой фильтрации. Масса возможностей и при этом очень удобный и приятный интерфейс.</Char_Desc_250>
+			<Char_Desc_450>Программа для обмена текстовыми сообщениями и файлами по локальным, территориально-распределенным и виртуальным приватным сетям. Позволяет быстро отправлять сообщения, с поддержкой двух уровней важности, системой фильтрации, аттачментов, полной поддержкой Windows XP, полной совместимостью со стандартными WinPopup. Масса возможностей, масса настроек и при этом очень удобный, приятный и "затягивающий" пользовательский интерфейс. Не требует сервера.</Char_Desc_450>
+			<Char_Desc_2000>Vypress Messenger – это программа для пересылки текстовых сообщений и присоединенных к ним файлов в реальном времени, без использования дополнительных серверов, с одного на другой или несколько других компьютеров.
+
+Программа поддерживает несколько протоколов пересылки сообщений, в том числе свой собственный протокол для гарантированной рассылки прямых сообщений по протоколу TCP и многоадресной рассылки файлов и сообщений по UPD и IP Multicast. Помимо этого поддерживается стандартный протокол SMB (для совместимости с WinPopup, ‘net send’ и Unix-реализациями Samba) и пересылка почты по протоколу SMTP, а также проверка новой почты по протоколам POP3/IMAP4.
+
+Главным достоинством программы является её отказоустойчивость и независимость от сетевой инфраструктуры. Vypress Messenger изначально разработан и специально оптимизирован для локальных сетей, он не использует промежуточные сервера, таким образом, пользователь сможет отправить и получить сообщение, даже если все сервера компании выведены из строя в результате какой-либо аварии или внешней атаки. Vypress Messenger может автоматически сканировать сеть для получения адресов компьютеров, но также позволяет брать адреса из локальной или централизованной адресной книги и даже просто вручную вводить IP адреса или адреса подсетей для рассылки сообщений. Для особых случаев в программе предусмотрены возможности для отправки высокоприоритетных сообщений и создание макросов для отправки предустановленных сообщений одним нажатием кнопки.
+
+В программе также имеются развитые средства для протоколирования и поиска сообщений, интерфейс пользователя на пяти языках (английский, испанский, немецкий, русский и итальянский) и масса других полезных возможностей.</Char_Desc_2000>
+		</Russian>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.vypress.com/lan_instant_messenger/</Application_Info_URL>
+			<Application_Order_URL>http://www.vypress.com/buy/</Application_Order_URL>
+			<Application_Screenshot_URL>http://www.vypress.com/lan_instant_messenger/screenshots/img/vm40-1.png</Application_Screenshot_URL>
+			<Application_Icon_URL>http://www.vypress.com/img/icons/messenger32.gif</Application_Icon_URL>
+			<Application_XML_File_URL>http://www.vypress.com/pads/betas/vm_beta.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://www.vypress.com/ftp/betas/VyMess48b1.msi</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>This product can be freely distributed through the Internet. To publish it on a CD, please contact support@vypress.com</Distribution_Permissions>
+		<EULA>1. License. If you accept this License, VyPRESS Research, LLC hereby licenses to you one electronic copy of the computer program you are about to install and related documentation (the “Software”). VyPRESS Research retains all right, title and interest in and to the Software. That Software and all parts thereof are the subject matter of various proprietary rights, including without limitation copyrights, trade secrets, patents and other similar intellectual and industrial property rights (“Proprietary Rights”). This License permits you to use the Software on a single personal computer or workstation and to make one copy of the Software in machine-readable form for backup purposes only. Within any such copy, you must reproduce the copyright notices and any other proprietary legends that were on the original downloaded copy of the Software. 
+
+No license, right or interest in any trademark, trade name or service mark of VyPRESS Research, LLC or any third party is granted under this License. You acknowledge that neither this License, nor your subsequent registration of the Software (should you choose to register the Software) in no way shall be construed to provide an express or implied license to use, modify or improve any of the content of the Software, including without limitation, or any works, inventions, discoveries, technology or other items which are the subject matter of VyPRESS Research’s Proprietary Rights or otherwise to use or exploit the Software or the Proprietary Rights in any matter not expressly permitted herein.
+2. Restrictions. You may not attempt to create or derive any of the source code or other technology or data within the Software by disassembly, reverse engineering or any other method, or otherwise reduce the Software to a human-perceivable form. You may not modify or translate any part of the Software. You may not use, disclose, distribute, make or have made any copies of the Software, in whole or in part, nor rent, lease or lend the Software without the prior authorization of VyPRESS Research, provided, however, that you may maintain a backup copy of the Software during the term of this License. You agree to provide notice to VyPRESS Research immediately after learning of or having reason to suspect a breach of any of the provisions set forth in this License.
+3. Termination. This License is effective until terminated. You may terminate this License at any time by destroying the Software, and all copies thereof. This License will terminate immediately without notice from VyPRESS Research if you fail to comply with any provision of this License. Upon termination, you must destroy the Software and all copies thereof.
+4. Disclaimer of Warranty. REGARDLESS OF WHETHER YOU LATER CHOOSE TO REGISTER YOUR COPY OF THE SOFTWARE, THE SOFTWARE AND RELATED DOCUMENTATION ARE PROVIDED “AS IS,” WITHOUT WARRANTY OF ANY KIND, AND VyPRESS Research EXPRESSLY DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF DESIGN, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT, ANY WARRANTIES ARISING FROM A COURSE OF DEALING, USAGE, OR TRADE PRACTICE, OR ANY WARRANTIES OF NON-INFRINGEMENT OF ANY THIRD PARTY’S PATENT(S), TRADE SECRET(S), COPYRIGHT(S) OR OTHER INTELLECTUAL PROPERTY RIGHTS. VyPRESS Research DOES NOT WARRANT THAT THE FUNCTIONS CONTAINED IN THE SOFTWARE WILL MEET YOUR REQUIREMENTS, OR THAT THE OPERATION OF THE SOFTWARE WILL BE UNINTERRUPTED OR ERROR-FREE, OR THAT DEFECTS IN THE SOFTWARE WILL BE CORRECTED. 
+
+Furthermore, VyPRESS Research does not warrant or make any representations regarding the use or the results of the use of the software or related documentation in terms of their correctness, accuracy, reliability, or otherwise. No oral or written information or advice given by VyPRESS Research or VyPRESS Research’s authorized representative shall create any warranty or in any way increase the scope of this warranty. Should the Software prove defective, you (and not VyPRESS Research or VyPRESS Research’s authorized representative) assume the entire cost of all necessary servicing, repair or correction. Some states do not allow exclusion of implied warranties, so the above exclusion may not apply to you. This warranty gives you specific legal rights, and you may also have other rights which vary from state to state.
+5. Limitation of Liability. UNDER NO CIRCUMSTANCES, INCLUDING NEGLIGENCE, SHALL VyPRESS Research BE LIABLE FOR ANY LOST REVENUE OR PROFITS OR ANY INCIDENTAL, INDIRECT, SPECIAL, OR CONSEQUENTIAL DAMAGES THAT RESULT FROM THE USE OR INABILITY TO USE THE SOFTWARE OR RELATED DOCUMENTATION, EVEN IF VyPRESS Research OR VyPRESS Research’s AUTHORIZED REPRESENTATIVE HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. SOME STATES DO NOT ALLOW THE LIMITATION OR EXCLUSION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES SO THE ABOVE LIMITATION OR EXCLUSION MAY NOT APPLY TO YOU. IN NO EVENT SHALL VyPRESS Research’s TOTAL LIABILITY TO YOU FOR ALL DAMAGES, LOSSES, AND CAUSES OF ACTION, WHETHER IN CONTRACT, TORT (INCLUDING NEGLIGENCE) OR OTHERWISE, EXCEED THE AMOUNT PAID BY YOU FOR THE SOFTWARE.
+6. Controlling Law. This License shall be governed by and construed in accordance with the substantive laws of the United States, notwithstanding the conflicts of law provisions of that state or any other jurisdiction. All disputes arising out of this license shall be subject to the exclusive jurisdiction of federal and state courts located Delaware.
+7. Complete Agreement. This License constitutes the entire agreement between the parties with respect to the use of the Software and supersedes all prior or contemporaneous understandings or agreements, written or oral, regarding such subject matter.</EULA>
+	</Permissions>
+	<Affiliates>
+		<Affiliates_FORM>Y</Affiliates_FORM>
+		<Affiliates_VERSION>1.4</Affiliates_VERSION>
+		<Affiliates_URL>http://www.asp-shareware.org/pad/extensions/Affiliates.htm</Affiliates_URL>
+		<Affiliates_Information_Page />
+		<Affiliates_Avangate_Order_Page />
+		<Affiliates_Avangate_Vendor_ID />
+		<Affiliates_Avangate_Product_ID />
+		<Affiliates_Avangate_Maximum_Commission_Rate />
+		<Affiliates_BMTMicro_Order_Page />
+		<Affiliates_BMTMicro_Vendor_ID />
+		<Affiliates_BMTMicro_Product_ID />
+		<Affiliates_BMTMicro_Maximum_Commission_Rate />
+		<Affiliates_Cleverbridge_Order_Page />
+		<Affiliates_Cleverbridge_Vendor_ID />
+		<Affiliates_Cleverbridge_Product_ID />
+		<Affiliates_Cleverbridge_Maximum_Commission_Rate />
+		<Affiliates_clixGalore_Order_Page />
+		<Affiliates_clixGalore_Vendor_ID />
+		<Affiliates_clixGalore_Product_ID />
+		<Affiliates_clixGalore_Maximum_Commission_Rate />
+		<Affiliates_CommissionJunction_Order_Page />
+		<Affiliates_CommissionJunction_Vendor_ID />
+		<Affiliates_CommissionJunction_Product_ID />
+		<Affiliates_CommissionJunction_Maximum_Commission_Rate />
+		<Affiliates_DigiBuy_Order_Page />
+		<Affiliates_DigiBuy_Vendor_ID />
+		<Affiliates_DigiBuy_Product_ID />
+		<Affiliates_DigiBuy_Maximum_Commission_Rate />
+		<Affiliates_DigitalCandle_Order_Page />
+		<Affiliates_DigitalCandle_Vendor_ID />
+		<Affiliates_DigitalCandle_Product_ID />
+		<Affiliates_DigitalCandle_Maximum_Commission_Rate />
+		<Affiliates_Emetrix_Order_Page />
+		<Affiliates_Emetrix_Vendor_ID />
+		<Affiliates_Emetrix_Product_ID />
+		<Affiliates_Emetrix_Maximum_Commission_Rate />
+		<Affiliates_eSellerate_Order_Page />
+		<Affiliates_eSellerate_Vendor_ID />
+		<Affiliates_eSellerate_Product_ID />
+		<Affiliates_eSellerate_Maximum_Commission_Rate />
+		<Affiliates_Kagi_Order_Page />
+		<Affiliates_Kagi_Vendor_ID />
+		<Affiliates_Kagi_Product_ID />
+		<Affiliates_Kagi_Maximum_Commission_Rate />
+		<Affiliates_LinkShare_Order_Page />
+		<Affiliates_LinkShare_Vendor_ID />
+		<Affiliates_LinkShare_Product_ID />
+		<Affiliates_LinkShare_Maximum_Commission_Rate />
+		<Affiliates_NorthStarSol_Order_Page />
+		<Affiliates_NorthStarSol_Vendor_ID />
+		<Affiliates_NorthStarSol_Product_ID />
+		<Affiliates_NorthStarSol_Maximum_Commission_Rate />
+		<Affiliates_OneNetworkDirect_Order_Page />
+		<Affiliates_OneNetworkDirect_Vendor_ID />
+		<Affiliates_OneNetworkDirect_Product_ID />
+		<Affiliates_OneNetworkDirect_Maximum_Commission_Rate />
+		<Affiliates_Order1_Order_Page />
+		<Affiliates_Order1_Vendor_ID />
+		<Affiliates_Order1_Product_ID />
+		<Affiliates_Order1_Maximum_Commission_Rate />
+		<Affiliates_Osolis_Order_Page />
+		<Affiliates_Osolis_Vendor_ID />
+		<Affiliates_Osolis_Product_ID />
+		<Affiliates_Osolis_Maximum_Commission_Rate />
+		<Affiliates_Plimus_Order_Page />
+		<Affiliates_Plimus_Vendor_ID />
+		<Affiliates_Plimus_Product_ID />
+		<Affiliates_Plimus_Maximum_Commission_Rate />
+		<Affiliates_Regnet_Order_Page />
+		<Affiliates_Regnet_Vendor_ID />
+		<Affiliates_Regnet_Product_ID />
+		<Affiliates_Regnet_Maximum_Commission_Rate />
+		<Affiliates_Regnow_Order_Page>https://www.regnow.com/softsell/nph-softsell.cgi?item=1349-1</Affiliates_Regnow_Order_Page>
+		<Affiliates_Regnow_Vendor_ID>1349</Affiliates_Regnow_Vendor_ID>
+		<Affiliates_Regnow_Product_ID>1349-1</Affiliates_Regnow_Product_ID>
+		<Affiliates_Regnow_Maximum_Commission_Rate />
+		<Affiliates_Regsoft_Order_Page />
+		<Affiliates_Regsoft_Vendor_ID />
+		<Affiliates_Regsoft_Product_ID />
+		<Affiliates_Regsoft_Maximum_Commission_Rate />
+		<Affiliates_ShareIt_Order_Page>https://secure.shareit.com/shareit/checkout.html?license=1&amp;productid=140478</Affiliates_ShareIt_Order_Page>
+		<Affiliates_ShareIt_Vendor_ID>11132</Affiliates_ShareIt_Vendor_ID>
+		<Affiliates_ShareIt_Product_ID>140478</Affiliates_ShareIt_Product_ID>
+		<Affiliates_ShareIt_Maximum_Commission_Rate />
+		<Affiliates_Shareasale_Order_Page />
+		<Affiliates_Shareasale_Vendor_ID />
+		<Affiliates_Shareasale_Product_ID />
+		<Affiliates_Shareasale_Maximum_Commission_Rate />
+		<Affiliates_SWReg_Order_Page />
+		<Affiliates_SWReg_Vendor_ID />
+		<Affiliates_SWReg_Product_ID />
+		<Affiliates_SWReg_Maximum_Commission_Rate />
+		<Affiliates_V-Share_Order_Page />
+		<Affiliates_V-Share_Vendor_ID />
+		<Affiliates_V-Share_Product_ID />
+		<Affiliates_V-Share_Maximum_Commission_Rate />
+		<Affiliates_VFree_Order_Page />
+		<Affiliates_VFree_Vendor_ID />
+		<Affiliates_VFree_Product_ID />
+		<Affiliates_VFree_Maximum_Commission_Rate />
+		<Affiliates_Yaskifo_Order_Page />
+		<Affiliates_Yaskifo_Vendor_ID />
+		<Affiliates_Yaskifo_Product_ID />
+		<Affiliates_Yaskifo_Maximum_Commission_Rate />
+	</Affiliates>
+	<VyPRESS_Site>
+    <BaseUrl>http://www.vypress.com</BaseUrl>
+    <Features>/lan_instant_messenger/features/</Features>
+    <Graphics>
+      <SmallIcon_URL>/img/icons/vm-ico.gif</SmallIcon_URL>
+    </Graphics>
+    <Network_Protocols>
+		<Proto>TCP/IP</Proto>
+    </Network_Protocols>
+  </VyPRESS_Site>
+</XML_DIZ_INFO>

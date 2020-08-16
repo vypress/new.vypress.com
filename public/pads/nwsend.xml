@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+<MASTER_PAD_VERSION_INFO>
+  <MASTER_PAD_VERSION>2.00</MASTER_PAD_VERSION>
+  <MASTER_PAD_EDITOR>RoboSoft</MASTER_PAD_EDITOR>
+  <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+</MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-0039097DECC</Company_UIN>
+    <Product_UIN>APP-00390D6E295</Product_UIN>
+    <Search_String>NWSend</Search_String>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Additional_Categories></Additional_Categories>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>VyPRESS Research, LLC</Company_Name>
+    <Address_1>25 Greystone Manor</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Lewes</City_Town>
+    <State_Province>Delaware</State_Province>
+    <Zip_Postal_Code>19958</Zip_Postal_Code>
+    <Country>USA</Country>
+    <Company_WebSite_URL>http://www.vypress.com</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>VyPRESS Research</Contact_First_Name>
+      <Contact_Last_Name>LLC</Contact_Last_Name>
+      <Contact_Email>submit-feedback@vypress.com</Contact_Email>
+      <Author_First_Name>VyPRESS Research, LLC</Author_First_Name>
+      <Author_Email>submit-feedback@vypress.com</Author_Email>
+      <Author_Last_Name></Author_Last_Name>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>sales@vypress.com</Sales_Email>
+      <Support_Email>support@vypress.com</Support_Email>
+      <General_Email>support@vypress.com</General_Email>
+      <Sales_Phone>+1-800-903-4152</Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone>+1 (508) 526-5876</Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <ASP>
+    <ASP_FORM>Y</ASP_FORM>
+    <ASP_Member>Y</ASP_Member>
+    <ASP_Member_Number>04066</ASP_Member_Number>
+  </ASP>
+  <Program_Info>
+    <Program_Name>NWSend</Program_Name>
+    <Program_Version>5.0</Program_Version>
+    <Program_Release_Month>11</Program_Release_Month>
+    <Program_Release_Day>02</Program_Release_Day>
+    <Program_Release_Year>2005</Program_Release_Year>
+    <Program_Cost_Dollars>10</Program_Cost_Dollars>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win95,Win98,WinME,WinXP,WinNT 4.x,Windows2000,Windows2003</Program_OS_Support>
+    <Program_Language>English,Russian</Program_Language>
+    <File_Info>
+      <Filename_Versioned>NWSend50.msi</Filename_Versioned>
+      <Filename_Previous>NWSend46.exe</Filename_Previous>
+      <Filename_Generic>NWSend.exe</Filename_Generic>
+      <Filename_Long>NWSend50.msi</Filename_Long>
+      <File_Size_Bytes>1152000</File_Size_Bytes>
+      <File_Size_K>1125</File_Size_K>
+      <File_Size_MB>1.1</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>Y</Has_Expire_Info>
+      <Expire_Count>31</Expire_Count>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Specific_Category>Utilities</Program_Specific_Category>
+    <Program_Categories>Conferencing :: Text</Program_Categories>
+    <Program_System_Requirements>Novell Client32 installed</Program_System_Requirements>
+    <Includes_JAVA_VM>N</Includes_JAVA_VM>
+    <Includes_VB_Runtime>N</Includes_VB_Runtime>
+    <Includes_DirectX>N</Includes_DirectX>
+    <Limitations>NONE</Limitations>
+    <Program_Category_Class>Communications::Chat &amp; Instant Messaging</Program_Category_Class>
+    <Program_Change_Info>Added Message History dialog, completely rewritten messages sending algorithm, improved reliability and many other new features. Complete description of new features is available at http://www.vypress.com/products/nwsend/whatsnew/</Program_Change_Info>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Awards></Awards>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>nwsend,send,message,sending,receive,novell,netware,utility,NDS tree,instant,broadcast</Keywords>
+      <Char_Desc_45>Sending messages with Novell Client32</Char_Desc_45>
+      <Char_Desc_80>NWSend - Sending and receiving messages with Novell Client32</Char_Desc_80>
+      <Char_Desc_250>NWSend allows sending and receiving messages between Novell NetWare users that have Client32 installed. The number one NetWare native instant messenger recommended by the Novell Tech Support!</Char_Desc_250>
+      <Char_Desc_450>NWSend allows sending and receiving messages between Novell NetWare users that have Client32 installed. The program sends messages using the same protocol as standard NetWare utility does, so everybody can receive such messages without any additional software. NWSend gives you very flexible and useful way to select recipients of your messages: you may filter users using NDS properties and obtain the list of users extremely FAST.</Char_Desc_450>
+      <Char_Desc_2000>NWSend allows sending and receiving messages between Novell NetWare users that have Client32 installed. The program sends messages using the same protocol as standard NetWare utility does, so everybody can receive such messages without any additional software. However, in contrast with standard Novell utility, NWSend gives you very flexible and useful way to select recipients of your messages: you may filter users using NDS properties and obtain the list of users extremely FAST. Incredible speed of the program (it's at least two times faster than any other available solution) allows you to work easy and without unneeded delays. For further streamlined workflow, NWSend allows you to store ten frequently used messages and send it just by one mouse click. And system administrators will appreciate NWSend's command-line interface to avoid any work at all!</Char_Desc_2000>
+    </English>
+    <Russian>
+      <Keywords>nwsend,отправить,сообщения,новел,нетваре,novell,netware,NDS</Keywords>
+      <Char_Desc_45>Обмен сообщениями по сетям Novell NetWare</Char_Desc_45>
+      <Char_Desc_80>Программа для оперативного обмена сообщения по сетям Novell NetWare с NDS</Char_Desc_80>
+      <Char_Desc_250>NWSend — это специализированное средство обмена сообщениями для Novell NetWare и eDirectory. Данный продукт представляет собой полнофункциональную замену стандартному средству приема и отправки сообщений в Novell Client32.</Char_Desc_250>
+      <Char_Desc_450>NWSend — это специализированное средство обмена сообщениями для Novell NetWare и eDirectory/NDS. Данный продукт представляет собой полнофункциональную замену стандартному средству приема и отправки сообщений в Novell Client32. Без потери совместимости, добавлена возможность видеть полное имя и должность человека (равно как и любые другие атрибуты из NDS), статус активности, увеличена максимальная длина сообщений и масса других возможностей.</Char_Desc_450>
+      <Char_Desc_2000>NWSend — это специализированное средство обмена сообщениями для Novell NetWare и eDirectory (NDS).
+Данный продукт представляет собой полнофункциональную замену стандартному средству приема и отправки сообщений в Novell Client32. Без потери совместимости, добавлена возможность видеть полное имя и должность человека (равно как и любые другие атрибуты из NDS), статус активности, увеличена максимальная длина сообщений и масса других возможностей. 
+Программа обладает удобным и знакомым интерфейсом (можно, в частности, настроить его в виде ICQ и подобных программ), а благодаря полной совместимости со стандартным протоколом Новелл, NWSend можно установить только тем сотрудникам, которым необходимо отправлять сообщения. 
+Ну и, наконец, администраторы без сомнения, оценят удобную возможность отправки сообщений из командной строки.</Char_Desc_2000>
+      <Keywords_1>nwsend</Keywords_1>
+      <Keywords_2>отправить</Keywords_2>
+      <Keywords_3>сообщения</Keywords_3>
+      <Keywords_4>новел</Keywords_4>
+      <Keywords_5>нетваре</Keywords_5>
+      <Keywords_6>novell</Keywords_6>
+      <Keywords_7>netware</Keywords_7>
+      <Keywords_Space>nwsend отправить сообщения новел нетваре novell netware NDS</Keywords_Space>
+      <Keywords_8>NDS</Keywords_8>
+    </Russian>
+    <German>
+      <Keywords>nwsend, Message, absenden, senden, bekommen, austauschen, erhalten, netware, Hilfsprogramm, NDS</Keywords>
+      <Char_Desc_45>Messages-Austausch im Novell Netware Netzwerk</Char_Desc_45>
+      <Char_Desc_80>NWSend - leistungsstarkes Tool zum Messages-Austausch mit Novell Client32</Char_Desc_80>
+      <Char_Desc_250>NWSend - ist ein spezialisiertes Tool zum Messages-Austausch in den Novell NetWare und eDirectory. Dieses Programm bietet einen vollfunktionellen Ersatz der standarden Mittel des Messages-Austauschs mit Novell Client32.</Char_Desc_250>
+      <Char_Desc_450>NWSend — ist ein spezialisiertes Tool zum Messages-Austausch in den Novell NetWare und eDirectory /NDS. Dieses Programm stellt einen vollfunktionellen Ersatz der standarden Mittel des Messages-Austauschs mit Novell Client32 dar. Ohne Kompatibilitätsprobleme bietet es eine neue Möglichkeit, den vollen Namen und den Posten des Menschen (ua. Eingenschaften des NDS) zu betrachten, die maximale Länge der Message ist vergrössert worden etc.</Char_Desc_450>
+      <Char_Desc_2000>NWSend — ist ein spezialisiertes Tool zum Messages-Austausch für Novell NetWare und eDirectory /NDS. Dieses Programm stellt einen vollfunktionellen Ersatz der standarden Mittel des Messages-Austauschs mit Novell Client32 dar. 
+Ohne Kompatibilitätsprobleme, bietet es eine neue Möglichkeit, den vollen Namen und den Posten des Menschen (ua. Eingenschaften des NDSs) anzusehen, Aktivitätsstatus, außerbem ist die maximale Länge der Message vergrössert und noch viele andere Möglichkeiten hinzugefügt worden. Das Programm verfügt über einen bequemen und gut bekannten Interface (man kann ihn, unter anderen, zum Beispiel ICQ-artig einstellen). Dank der vollen Kompatibilität mit dem Standardprotokoll von Novell, braucht man keine zusätzliche Software zu installieren. 
+Im Vergleich zum standarden Novell Tool, bietet NWSend einen sehr nutzlichen und flexiblen Weg die Empfänger Ihrer Messages zu wählen: Sie können die Benutzer mithilfe der NDS Eigenschaften filtern und erhalten so Blitz-schnell die Benutzerliste. Die unglaubliche Geschwindigkeit des Programms (es ist immerhin zwei mal so schnell, wie jede andere Lösung) ermöglicht eine reibungslose, angenehme Arbeit. Die Möglichkeit, zehn am häufigsten verwendbare Messages zu speichern und sie in einem einzigen Mausklick zu versenden, macht das Programm noch anziehender. Systemadministratoren werden die bequeme Möglichkeit Messages dirrekt von der Kommandozeile zu versenden bestimmt hoch schätzen.</Char_Desc_2000>
+      <Keywords_1>nwsend</Keywords_1>
+      <Keywords_2>Message</Keywords_2>
+      <Keywords_3>absenden</Keywords_3>
+      <Keywords_4>senden</Keywords_4>
+      <Keywords_5>bekommen</Keywords_5>
+      <Keywords_6>austauschen</Keywords_6>
+      <Keywords_7>erhalten</Keywords_7>
+      <Keywords_8>netware</Keywords_8>
+      <Keywords_Space>nwsend  Message  absenden  senden  bekommen  austauschen  erhalten  netware  Hilfsprogramm  NDS</Keywords_Space>
+    </German>
+    <Ukrainian>
+      <Keywords></Keywords>
+      <Char_Desc_45></Char_Desc_45>
+      <Char_Desc_80></Char_Desc_80>
+      <Char_Desc_250></Char_Desc_250>
+      <Char_Desc_450></Char_Desc_450>
+      <Char_Desc_2000></Char_Desc_2000>
+    </Ukrainian>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://www.nwsend.com/</Application_Info_URL>
+      <Application_Order_URL>http://www.vypress.com/buy/</Application_Order_URL>
+      <Application_Screenshot_URL>http://www.vypress.com/products/nwsend/screenshots/img/nwsend45-1.gif</Application_Screenshot_URL>
+      <Application_Icon_URL>http://www.vypress.com/img/icons/nwsend32.gif</Application_Icon_URL>
+      <Application_XML_File_URL>http://www.vypress.com/pads/nwsend.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://www.vypress.com/ftp/NWSend50.msi</Primary_Download_URL>
+      <Secondary_Download_URL>http://www.winmessenger.com/files/NWSend50.msi</Secondary_Download_URL>
+      <Additional_Download_URL_1>http://download.vypress.net/ftp/NWSend50.msi</Additional_Download_URL_1>
+      <Additional_Download_URL_2>ftp://ftp.winmessenger.com/NWSend50.msi</Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>About distribution NWSEND - write to sales@nwsend.com</Distribution_Permissions>
+    <EULA>THIS IS EVALUATION TRIAL VERSION.
+You may use to try NWSend and estimate how it 
+fits your needs. For commercial use you 
+MUST purchase a license. To order the license now
+please click on the link below:
+
+http://www.nwsend.com
+
+THIS SOFTWARE AND THE ACCOMPANYING FILES ARE
+SOLD "AS IS" AND WITHOUT WARRANTIES AS TO
+PERFORMANCE OR MERCHANTABILITY OR ANY OTHER
+WARRANTIES WHETHER EXPRESSED OR IMPLIED.</EULA>
+  </Permissions>
+  <Simtel>
+    <Simtel_FORM>Y</Simtel_FORM>
+    <SIMTEL_FORM_VER>1.6 11/26/2002</SIMTEL_FORM_VER>
+    <Simtel_Platform>win95 - Win95/Win98/WinME</Simtel_Platform>
+    <Simtel_Category></Simtel_Category>
+  </Simtel>
+  <Filebasket>
+    <cdrom_permission>Y</cdrom_permission>
+  </Filebasket>
+  <VyPRESS_Site>
+    <BaseUrl>http://www.vypress.com</BaseUrl>
+    <Graphics>
+      <SmallIcon_URL>/img/icons/nwsend16.gif</SmallIcon_URL>
+    </Graphics>
+    <Note>
+			<![CDATA[<br />Requires <a href="http://download.novell.com" target="_blank"><img src="/img/icons/redn16.gif" height="16" width="13" alt="N" />Novell Client 32</a>]]>
+    </Note>
+    <Note lang="ru">
+			<![CDATA[<br />Требуется <a href="http://download.novell.com" target="_blank"><img src="/img/icons/redn16.gif" height="16" width="13" alt="N" />Novell Client 32</a>]]>
+    </Note>
+    <Server_Platforms>
+		<Platform>Novell NetWare 4.x</Platform>
+		<Platform>Novell NetWare 5.x</Platform>
+		<Platform>Novell NetWare 6.x</Platform>
+    </Server_Platforms>
+    <Network_Protocols>
+		<Proto>TCP/IP</Proto>
+		<Proto>IPX/SPX</Proto>
+    </Network_Protocols>
+  </VyPRESS_Site>
+  <Affiliates>
+    <Affiliates_FORM>Y</Affiliates_FORM>
+    <Affiliates_FORM_VER>1.1 12/04/2002</Affiliates_FORM_VER>
+    <Affiliates_ShareIt_Vendor_ID>11132</Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_Regnow_Vendor_ID>1349</Affiliates_Regnow_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID>174816</Affiliates_ShareIt_Product_ID>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_Regnow_Order_Page></Affiliates_Regnow_Order_Page>
+    <Affiliates_Regnow_Product_ID></Affiliates_Regnow_Product_ID>
+    <Affiliates_Regnow_Maximum_Commission_Rate></Affiliates_Regnow_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+  </Affiliates>
+  <PADRING>http://www.vypress.com/pads/winmessenger.xml
+http://www.vypress.com/pads/messenger.xml</PADRING>
+  <Delphi>
+    <D1>FALSE</D1>
+    <D2>FALSE</D2>
+    <D3>FALSE</D3>
+    <D4>FALSE</D4>
+    <D5>FALSE</D5>
+    <D6>FALSE</D6>
+    <D7>FALSE</D7>
+    <BCB1>FALSE</BCB1>
+    <BCB3>FALSE</BCB3>
+    <BCB4>FALSE</BCB4>
+    <BCB5>FALSE</BCB5>
+    <BCB6>FALSE</BCB6>
+    <K1>FALSE</K1>
+    <K2></K2>
+    <K3></K3>
+    <D1_URL></D1_URL>
+    <D2_URL></D2_URL>
+    <D3_URL></D3_URL>
+    <D4_URL></D4_URL>
+    <D5_URL></D5_URL>
+    <D6_URL></D6_URL>
+    <D7_URL></D7_URL>
+    <BCB1_URL></BCB1_URL>
+    <BCB3_URL></BCB3_URL>
+    <BCB4_URL></BCB4_URL>
+    <BCB5_URL></BCB5_URL>
+    <BCB6_URL></BCB6_URL>
+    <K1_URL></K1_URL>
+    <K2_URL></K2_URL>
+    <K3_URL></K3_URL>
+    <Type></Type>
+    <Price></Price>
+    <Source></Source>
+    <File_Location></File_Location>
+    <Link_URL></Link_URL>
+    <Download_URL></Download_URL>
+    <Version></Version>
+    <Notes></Notes>
+  </Delphi>
+</XML_DIZ_INFO>

@@ -1,0 +1,21 @@
+.toc
+{
+	font-weight: bold;
+	color: #A4C6EE;
+}
+
+h3
+{
+	color: #0356B6;
+}
+
+h3 em
+{
+	float: right;
+	font-weight: normal;
+}
+
+p b
+{
+	white-space: nowrap;
+}

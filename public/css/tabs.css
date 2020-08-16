@@ -1,0 +1,123 @@
+.tabbedBody
+{
+	float: right;
+	width: 646px;
+	max-width: 646px;
+	min-width: 646px;
+}
+
+.leftBorder
+{
+    clear: both;
+    float: none;
+    width: 645px;
+  	min-width: 645px;
+	max-width: 645px;
+    padding-left: 1px;
+	background: url(/images/design/vert-grad-border.gif) no-repeat top left;
+}
+
+#TabNavigation 
+{
+	float: left;
+	clear: both;
+	width: 100%;
+	background: url(/images/design/tabs/underline.gif) repeat-x bottom;
+}
+
+#TabNavigation ul 
+{
+    float:left;
+	margin: 0;
+	padding: 10px 0 0 0;
+	list-style:none;
+}
+
+#TabNavigation li 
+{
+  float:left;
+  display:inline;
+  background: url(/images/design/tabs/tab_left.gif) no-repeat left top;
+  margin:0;
+  padding:0 0 0 4px;
+  border-bottom: 1px solid #cccccc;
+  white-space: nowrap;
+}
+
+#TabNavigation a, #TabNavigation div 
+{
+    float:left;/*IE 6 fix*/
+    display: block;
+   	min-height: 18px;
+   	max-height: 18px;
+	height: 18px;
+
+    padding: 5px 15px 4px 6px;
+    font-family: Tahoma, Verdana, Geneva, Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background: url(/images/design/tabs/tab_right.jpg) no-repeat right top;
+}
+
+#TabNavigation img
+{
+	margin: 0 2px 0 0;
+	vertical-align: middle;
+}
+
+#TabNavigation li:hover
+{
+	background-image: url(/images/design/tabs/tab-active_01.gif);
+}
+
+#TabNavigation li:hover a
+{
+	background-image: url(/images/design/tabs/tab-active_02.jpg);
+}
+
+#TabNavigation li.active
+{
+	border-bottom-color: #EFEFEF;
+	background-image: url(/images/design/tabs/tab-active_01.gif);
+	margin-top: -4px;
+}
+
+#TabNavigation li.active a, #TabNavigation li.active div
+{
+	background-image: url(/images/design/tabs/tab-active_02.jpg);
+	padding: 8px 15px 5px 6px;
+	font-weight: bold;
+	color: Gray;
+}
+
+#AltNav
+{
+    clear: both;
+}
+
+#AltNav ul
+{
+	border-top: dotted 1px #DFDFDF;
+	list-style: none;
+	margin: 15px 0 10px 0;
+	padding: 15px 0 0 0;
+}
+
+#AltNav li
+{
+	display: inline;
+	padding: 0 7px 0 0;
+	margin: 0 7px 0 0;
+	border-right: dotted 1px silver;
+	font-weight: bold;
+	color: Gray;
+}
+
+#AltNav li a
+{
+	font-weight: normal;
+}
+
+#AltNav li:last-child
+{
+	border-right: none;
+}

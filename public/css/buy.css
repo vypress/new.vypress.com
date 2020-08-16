@@ -1,0 +1,63 @@
+.prodEssentials a.prodBuyOnline
+{
+	background-image: url(/images/design/btns/btn-buyonline.gif);
+}
+
+.prodEssentials a.prodBuyOnline:hover
+{
+	background-image: url(/images/design/btns/btn-buyonline-over.gif);
+}
+.prodEssentials a.prodGetQuote
+{
+	background-image: url(/images/design/btns/btn-getquote.gif);
+}
+
+.prodEssentials a.prodGetQuote:hover
+{
+	background-image: url(/images/design/btns/btn-getquote-over.gif);
+}
+
+.priceTableHeader
+{
+	color: White;
+	background-color: #0056B5;
+	text-align: left;
+	vertical-align: middle;
+}
+
+.priceSmallText
+{
+	font-size: xx-small;
+}
+
+.priceRedText
+{
+	color: red;
+}
+
+.priceLogoIco
+{
+	border: 3px;
+	vertical-align: middle;
+	height: 16px;
+	width: 16px;
+}
+
+.unlimitedMessengerList li
+{
+	list-style-image: url(/images/pix/green_li.gif);
+}
+
+.onlineStepImg
+{
+	border: 3px;
+	vertical-align: middle;
+	height: 30px;
+	width: 30px;
+}
+
+.onlineStepTxt
+{
+	font: bold 130% "Trebuchet MS",Verdana,Geneva,Arial,Helvetica,sans-serif;
+	color: #00b603;
+}
