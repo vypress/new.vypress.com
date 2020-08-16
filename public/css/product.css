@@ -1,0 +1,179 @@
+#roundSshot, .roundSshot
+{
+	position: relative;
+	float: right;
+	margin: 10px 0 10px 15px;
+}
+
+#quickInfo
+{
+	width: 175px;/*+2 pixels border*/
+	float: right;
+	clear: right;
+	line-height: 100%;
+	font-size: 90%;
+	margin: 10px 10px 10px 10px;
+}
+
+#quickInfo .topShapka
+{
+	border-bottom-width: 1px;
+}
+
+#quickInfo .pageFooter
+{
+    width: 177px;/*no +2 pixels border*/
+}
+
+#quickInfo dl
+{
+    width: 175px;/*+2 pixels border*/
+	margin: 0px;
+	padding: 0px;
+	border-left: solid 1px silver;
+	border-right: solid 1px silver;
+}
+
+#quickInfo .topShapka h3
+{
+	background: url(/images/products/quickinfo.gif) no-repeat center;
+}
+
+#quickInfo dt
+{
+	font-weight: bold;
+	padding: 10px 5px 5px 5px;
+	color: #555555;
+}
+
+#quickInfo dd
+{
+	margin: 0 0 0 15px;
+	padding: 0 0 5px 0;
+}
+
+#quickInfo a
+{
+	color: #d13e17!important;
+}
+#quickInfo dd.ver
+{
+	font-weight: bold;
+}
+#quickInfo dd.date
+{
+	font-style: italic;
+}
+#quickInfo dd a
+{
+	white-space: nowrap;
+}
+#quickInfo dd img
+{
+	vertical-align: middle;
+}
+#quickInfo dd a img
+{
+	margin-right: 3px;
+}
+
+#ProductReferences
+{
+	float: left;
+	position: relative;/*IE 6 fix*/
+	width: 70%;
+	max-width: 330px;
+	margin: 20px 20px 20px -60px;
+	border-top: dotted 2px #95c0f8;
+	border-bottom: dotted 2px #95c0f8;
+}
+#ProductReferences h3
+{
+	font: italic bold 130% "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color: #0056B5;
+	position: relative;
+	float: right;
+	top: -0.95em;
+	right: 40px;
+	background: White;
+	margin: 0;
+	padding: 0 10px 0 10px;
+}
+#ProductReferences ul
+{
+	margin: 20px 20px 20px 20px;
+	padding: 0;
+	font-weight: bolder;
+	color: #95C0F8;
+}
+#ProductReferences li
+{
+	padding: 0;
+	margin: 0 0 10px 20px;
+}
+
+.peopleCite
+{
+    display: block;
+	float: right;
+	width: 280px;
+	margin-left: 20px;
+	padding: 0;
+   	background: #e2e2e2 url(/images/design/cite/cite_main_bg.gif) no-repeat left bottom;
+}
+
+.peopleCite div.cite_text
+{
+	height: 190px;
+	min-height: 190px;
+}
+
+.peopleCite div.cite_text p
+{
+	padding: 0 10px;
+}
+
+.peopleCite div.cite_text address
+{
+	margin-left: 40px;
+}
+
+.peopleCite div.cite_top
+{
+	background: url(/images/design/cite/cite_top_left.gif) no-repeat top left;
+	font-size: 0;/*IE 6 fix*/
+}
+
+.peopleCite div.cite_top div
+{
+  	height: 8px;
+	min-height: 8px;
+    margin: 0 8px;
+   	font-size: 0;/*IE 6 fix*/
+   	border-top: solid 3px black;
+}
+
+.peopleCite div.cite_top div div
+{
+    position: relative;/*IE 6 fix*/
+    margin-right: -8px;
+    margin-top: -3px;/* to go over top border */
+   	background: url(/images/design/cite/cite_top_right.gif) no-repeat top right;
+    border: none;
+}
+
+.peopleCite div.cite_bottom
+{
+	width: 100%;
+  	height: 8px;
+	min-height: 8px;
+	font-size: 0;/*IE 6 fix*/
+    background: url(/images/design/cite/cite_bottom_right.gif) no-repeat right bottom;
+}
+
+h3, h4
+{
+    clear: none;
+    font-family: "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;
+	color: #4A4A4A;
+}

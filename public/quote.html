@@ -1,0 +1,199 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta http-equiv="Content-Language" content="en" />
+	<title>VyPRESS.COM :: Instant Quote for our products</title>
+	<link rel="copyright" href="/info/legal/" />
+	<link rel="author" href="mailto:webmaster@vypress.com" />
+
+	<script type="text/javascript" src="/scripts/buy/prices.js"></script>
+	<script type="text/javascript" src="/scripts/buy/shop_calc.js"></script>
+
+	<style type="text/css">
+		@font-face
+		{
+			font-family: Globus;
+			src: url(/css/GLOBUS0.eot);
+		}
+		
+		body, table
+		{
+			background: White;
+			color: Black;
+			font: 0.90em Verdana, Geneva, Arial, Helvetica, sans-serif;
+			margin: 5px 5px 5px 5px;
+			padding: 0;
+		}
+
+		.noBorders { border: none 0px;}
+		
+		h2
+		{
+			font: bold x-large Globus,"Trebuchet MS",Verdana,Geneva,Arial,Helvetica,sans-serif;
+			color: #00b603;
+		}
+		
+		.priceTableHeader
+		{
+			color: White;
+			background-color: #0056B5;
+			text-align: center;
+			vertical-align: middle;
+		}
+		
+		.note
+		{
+			text-align:right;
+			font-size: xx-small;
+			color: Gray;
+		}
+		
+		.logoIco
+		{
+			border: 3px;
+			vertical-align: middle;
+			height: 16px;
+			width: 16px;
+		}
+	</style>
+	
+</head>
+<body>
+	<form id="quote" method="post" runat="server">
+	<h2>Instant Quote</h2>
+	<table cellspacing="0" cellpadding="3" width="580" border="1" bordercolor="whitesmoke">
+		<tr class="priceTableHeader">
+			<th width="80%">Product</th>
+			<th>Qty.</th>
+			<th>Subtotal</th>
+		</tr>
+		<tr>
+			<td>
+				<img src="/images/icons/vm-ico.gif" class="logoIco" alt="Vypress Messenger" />
+				Vypress Messenger
+			</td>
+			<td>
+				<input id="VM_qty" type="text" maxlength="4" size="4" name="VM_qty" autocomplete="off"
+					onblur="OnChangeQty('VM');" onchange="OnChangeQty('VM');"
+					onkeypress="OnChangeQty('VM');" onkeyup="OnChangeQty('VM');" />
+			</td>
+			<td>
+				<input id="VM_total" class="NoBorders" readonly type="text" maxlength="20" size="10"
+					value="$0.00" name="VM_total" autocomplete="off" disabled="disabled" />
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="/images/icons/va-ico.gif" class="logoIco" alt="Vypress Auvis" />
+				Vypress Auvis
+			</td>
+			<td>
+				<input id="VA_qty" type="text" maxlength="4" size="4" name="VA_qty" autocomplete="off"
+					onblur="OnChangeQty('VA');" onchange="OnChangeQty('VA');"
+					onkeypress="OnChangeQty('VA');" onkeyup="OnChangeQty('VA');" />
+			</td>
+			<td>
+				<input id="VA_total" class="NoBorders" readonly type="text" maxlength="20" size="10"
+					value="$0.00" name="VA_total" autocomplete="off" disabled>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="/images/icons/vc-ico.gif" class="logoIco" alt="Vypress Chat" />
+				Vypress Chat
+			</td>
+			<td>
+				<input id="VC_qty" type="text" maxlength="4" size="4" name="VC_qty" autocomplete="off"
+					onblur="OnChangeQty('VC');" onchange="OnChangeQty('VC');"
+					onkeypress="OnChangeQty('VC');" onkeyup="OnChangeQty('VC');" />
+			</td>
+			<td>
+				<input id="VC_total" class="NoBorders" readonly type="text" maxlength="20" size="10"
+					value="$0.00" name="VC_total" autocomplete="off" disabled="disabled" />
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="/images/icons/skico16.png" class="logoIco" alt="SafeKuvert" />
+				SafeKuvert
+			</td>
+			<td>
+				<input id="SK_qty" type="text" maxlength="4" size="4" name="SK_qty" autocomplete="off"
+					onblur="OnChangeQty('SK');" onchange="OnChangeQty('SK');"
+					onkeypress="OnChangeQty('SK');" onkeyup="OnChangeQty('SK');" />
+			</td>
+			<td>
+				<input id="SK_total" class="NoBorders" readonly type="text" maxlength="20" size="10"
+					value="$0.00" name="VC_total" autocomplete="off" disabled="disabled" />
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<img src="/images/icons/winmessenger16.gif" class="logoIco" alt="WinMessenger" />
+				WinMessenger
+			</td>
+			<td>
+				<input id="WM_qty" type="text" maxlength="4" size="4" name="SK_qty" autocomplete="off"
+					onblur="OnChangeQty('WM');" onchange="OnChangeQty('WM');"
+					onkeypress="OnChangeQty('WM');" onkeyup="OnChangeQty('WM');" />
+			</td>
+			<td>
+				<input id="WM_total" class="NoBorders" readonly type="text" maxlength="20" size="10"
+					value="$0.00" name="VC_total" autocomplete="off" disabled="disabled" />
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="left"><b>TOTAL:</b></td>
+			<td>
+				<input id="CommonTotal" class="NoBorders" readonly type="text" maxlength="20" size="10"
+					value="$0.00" name="CommonTotal" autocomplete="off" />
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" class="note">
+				<b>NOTE:</b> Enter "-1" if you want to purchase an unlimited license
+			</td>
+		</tr>
+		<tr>
+			<td bgcolor="#0056b5" colspan="3" height="8px"></td>
+		</tr>
+	</table>
+	
+	<br/>
+	
+	<table width="580" border="0" cellpadding="5" cellspacing="0">
+		<tr>
+			<td>
+				<a href="#" onclick="return window.print();" language="javascript">
+					<img src="/images/design/btns/btn-print.gif" width="61" height="22" alt="Print..." border="0"
+						id="icoPrint" name="icoPrint" /></a>
+			</td>
+			<td>
+				<a href="#" onclick="return onPlaceOrder();" language="javascript">
+					<img src="/images/design/btns/btn-order.gif" width="61" height="22" alt="Place the order now"
+						border="0" id="icoOrder" name="icoOrder" /></a>
+			</td>
+			<td width="100%">
+				&nbsp;
+			</td>
+			<td>
+				<a href="#" onclick="CloseWnd();">
+					<img src="/images/design/btns/btn-close.gif" width="61" height="22" alt="Close this window"
+						border="0" id="icoClose" name="icoClose" /></a>
+			</td>
+		</tr>
+	</table>
+	</form>
+
+<script type="text/javascript">
+<!--
+function CloseWnd()
+{
+	window.close();
+	return true;
+}
+//-->
+</script>
+
+</body>
+</html>

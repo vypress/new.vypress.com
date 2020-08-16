@@ -1,0 +1,109 @@
+#startCompanyWelcome
+{
+	float: left;
+	width: 500px;
+	margin-bottom: 10px;
+}
+
+#startCompanyWelcome .pageFooter
+{
+    width: 502px;/*no +2 pixels border*/
+    min-width: 502px;/*no +2 pixels border*/
+    max-width: 502px;/*no +2 pixels border*/
+}
+
+#startCompanyWelcome .pageContent
+{
+    min-height: 130px;
+    height: 130px;
+}
+
+#LatestVers
+{
+	float: right;
+	width: 215px;
+	margin-bottom: 10px;
+}
+
+#LatestVers .pageFooter
+{
+    width: 217px;/*no +2 pixels border*/
+}
+
+#LatestVers .pageContent
+{
+    min-height: 184px;
+    height: 184px;
+}
+
+#LatestVers .topShapka 
+{
+	border-bottom-width: 1px;
+	text-align: center;
+}
+
+#LatestVers .topShapka h3
+{
+	background-image: url(/images/texts/latest-versions.gif);
+}
+
+#LatestVers h4
+{
+	height: 27px;
+	min-height: 27px;
+	text-indent: -5000px;
+	font-size: 0px;
+	margin: 0;
+	background: url(/images/texts/betas.gif) no-repeat center
+}
+
+#LatestVers ul
+{
+	margin: 0;
+	padding: 0;
+	list-style-type: none;
+	line-height: 180%;
+}
+
+#LatestVers li
+{
+   	text-align: right;
+	background-position: left center;
+	background-repeat: no-repeat;
+}
+#LatestVers li a
+{
+	float: left;
+	padding-left: 20px;
+	vertical-align: middle;
+}
+
+#Highlights
+{
+	clear: both;
+	background-image: url(/images/design/panelheaderbackblue.gif);
+	background-position: 0 -1px;
+	border-bottom: solid 1px #a4c6ee;
+	color: #a4c6ee;
+}
+#Highlights h3
+{
+	background-position: 40px 60%;
+	background-image: url(/images/texts/highlights.gif);
+}
+#Highlights em
+{
+	position: absolute;
+	right: 20px;
+	top: 5px;
+	white-space: nowrap;
+	font-style: italic;
+}
+.silverSep
+{
+	background: url(/images/pix/silverline.gif) no-repeat left;
+	height: 1px;
+	font-size: 1px;
+	margin: 20px 0 0 -10px;
+	clear: both;
+}

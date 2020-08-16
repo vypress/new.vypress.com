@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION></MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR></MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO></MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>VyPRESS Research, LLC</Company_Name>
+		<Address_1>16192 Coastal Hwy</Address_1>
+		<Address_2 />
+		<City_Town>Lewes</City_Town>
+		<State_Province>Delaware</State_Province>
+		<Zip_Postal_Code>19958</Zip_Postal_Code>
+		<Country>USA</Country>
+		<Company_WebSite_URL>http://www.vypress.com</Company_WebSite_URL>
+		<Contact_Info>
+			<Author_First_Name>VyPRESS Research</Author_First_Name>
+			<Author_Last_Name>, LLC</Author_Last_Name>
+			<Author_Email>support@vypress.com</Author_Email>
+			<Contact_First_Name>VyPRESS Research</Contact_First_Name>
+			<Contact_Last_Name>, LLC</Contact_Last_Name>
+			<Contact_Email>support@vypress.com</Contact_Email>
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email>sales@vypress.com</Sales_Email>
+			<Support_Email>support@vypress.com</Support_Email>
+			<General_Email>support@vypress.com</General_Email>
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone>+1 (508) 526-5876</Fax_Phone>
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>Vypress Messenger</Program_Name>
+		<Program_Version>4.0.2</Program_Version>
+		<Program_Release_Month>10</Program_Release_Month>
+		<Program_Release_Day>28</Program_Release_Day>
+		<Program_Release_Year>2011</Program_Release_Year>
+		<Program_Cost_Dollars>19.90</Program_Cost_Dollars>
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Shareware</Program_Type>
+		<Program_Release_Status>Minor Update</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win2000,Win7 x32,Win7 x64,WinServer,WinVista,WinVista x64,WinXP</Program_OS_Support>
+		<Program_Language>English</Program_Language>
+		<Program_Change_Info>Fixed several small bugs and glitches. The platform level has risen. Minimum required OS version is Windows 2000. This version was compiled and assembled using the latest Microsoft SDK for Windows 7.</Program_Change_Info>
+		<Program_Specific_Category>Internet</Program_Specific_Category>
+		<Program_Category_Class>Communications::Chat &amp; Instant Messaging</Program_Category_Class>
+		<Program_System_Requirements>8 MB RAM, 2 MB HDD space, a LAN connection</Program_System_Requirements>
+		<File_Info>
+			<File_Size_Bytes>1361408</File_Size_Bytes>
+			<File_Size_K>1329</File_Size_K>
+			<File_Size_MB>1.30</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>Y</Has_Expire_Info>
+			<Expire_Count>31</Expire_Count>
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>winpopup,network,lan,instant,messaging,vypress,broadcast,chat,message,real-time,wan</Keywords>
+			<Char_Desc_45>Send and receive network messages instantly</Char_Desc_45>
+			<Char_Desc_80>Peer-to-peer instant messaging and files transfering for LANs/WANs/intranets</Char_Desc_80>
+			<Char_Desc_250>It is the real-time messaging system specifically designed for business Intranets. Using a peer-to-peer architecture, it delivers text messages from workstation to workstation at real-time, without the typical delay associated with e-mail.</Char_Desc_250>
+			<Char_Desc_450>Vypress Messenger is the first real-time messaging system specifically designed for business Intranets. Using a peer-to-peer architecture, it delivers text messages from workstation to workstation in real-time, without the typical delay associated with conventional e-mail, and absolutely safe with high-grade encryption and digital signatures.</Char_Desc_450>
+			<Char_Desc_2000>Vypress Messenger is the first real-time messaging system specifically designed for business Intranets. Using a peer-to-peer architecture, it delivers text messages from workstation to workstation in real-time, without the typical delay associated with conventional e-mail, and absolutely safe with high-grade encryption and digital signatures.
+Vypress Messenger is a program for sending text messages with attachments in real-time, without using any additional servers, from one computer to another or a few others.
+The program supports several messages transferring protocols, including its own protocol, for guaranteed distribution of direct messages, using a TCP protocol and a multiple-address file distribution, using UDP and IP Multicast. Besides this, the program supports a standard SMB protocol (for compatibility with WinPopup, ‘net send’ and Unix-realizations Samba).
+The main benefit of the program is its fault-tolerance and independency from the network infrastructure. Vypress Messenger has been originally developed and specially optimized for LAN. It doesn’t use staging servers, and that way the user can send and receive a message even if all of the company’s servers are out of service due to some breakdown or an external attack. Vypress Messenger can automatically scan the network to obtain the computer addresses and also lets you select the addresses from a local or centralized address book or ever manually enter the IP addresses or the addresses of subnetworks for messages distribution. For special circumstances, the program provides the ability of sending high-priority messages and creating macros for sending out preset messages with a single mouse click.
+The program also contains advanced methods of messages logging and searching and many other useful functions.</Char_Desc_2000>
+		</English>
+		<Russian>
+			<Keywords>winpopup, vypress, общение в локальной сети, отсылка сообщений, послать сообщение, обмен файлами, сетевой мессенджер</Keywords>
+			<Char_Desc_45>Функциональная программа для общения по LAN</Char_Desc_45>
+			<Char_Desc_80>Удобная и мощная программа для обмена сообщениями и файлами по локальным сетям</Char_Desc_80>
+			<Char_Desc_250>Программа для обмена текстовыми сообщениями и файлами по сети. Позволяет быстро отправлять сообщения и файлы, с поддержкой двух уровней важности, системой фильтрации. Масса возможностей и при этом очень удобный и приятный интерфейс.</Char_Desc_250>
+			<Char_Desc_450>Программа для обмена текстовыми сообщениями и файлами по локальным, территориально-распределенным и виртуальным частным сетям. Позволяет быстро отправлять сообщения, с поддержкой двух уровней важности, системой фильтрации, вложений и криптографической защиты. Масса возможностей, масса настроек и при этом очень удобный, приятный и "затягивающий" пользовательский интерфейс. Не требует сервера.</Char_Desc_450>
+			<Char_Desc_2000>Vypress Messenger – это программа для пересылки текстовых сообщений и присоединенных к ним файлов в реальном времени, без использования дополнительных серверов, с одного на другой или несколько других компьютеров.
+Программа поддерживает несколько протоколов пересылки сообщений, в том числе свой собственный протокол для гарантированной рассылки прямых сообщений по протоколу TCP и многоадресной рассылки файлов и сообщений по UPD и IP Multicast. Помимо этого поддерживается стандартный протокол SMB (для совместимости с WinPopup, ‘net send’ и Unix-реализациями Samba).
+Главным достоинством программы является её отказоустойчивость и независимость от сетевой инфраструктуры. Vypress Messenger изначально разработан и специально оптимизирован для локальных сетей, он не использует промежуточные сервера, таким образом, пользователь сможет отправить и получить сообщение, даже если все сервера компании выведены из строя в результате какой-либо аварии или внешней атаки. Vypress Messenger может автоматически сканировать сеть для получения адресов компьютеров, но также позволяет брать адреса из локальной или централизованной адресной книги и даже просто вручную вводить IP адреса или адреса подсетей для рассылки сообщений. Для особых случаев в программе предусмотрены возможности для отправки высокоприоритетных сообщений и создание макросов для отправки предустановленных сообщений одним нажатием кнопки.
+В программе также имеются развитые средства для протоколирования и поиска сообщений и масса других полезных возможностей.</Char_Desc_2000>
+		</Russian>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://www.vypress.com/products/messenger/</Application_Info_URL>
+			<Application_Order_URL>http://www.vypress.com/buy/</Application_Order_URL>
+			<Application_Screenshot_URL>http://www.vypress.com/products/messenger/screenshots/img/vm40-1.png</Application_Screenshot_URL>
+			<Application_Icon_URL>http://www.vypress.com/img/icons/messenger32.gif</Application_Icon_URL>
+			<Application_XML_File_URL>http://www.vypress.com/pads/messenger.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://www.vypress.com/ftp/VyMes402.msi</Primary_Download_URL>
+			<Secondary_Download_URL>http://www.winmessenger.com/files/VyMes402.msi</Secondary_Download_URL>
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions>This product can be freely distributed through the Internet. To publish it on a CD, please contact support@vypress.com</Distribution_Permissions>
+		<EULA>END-USER LICENSE AGREEMENT FOR VYPRESS SOFTWARE
+VYPRESS MESSENGER 
+IMPORTANT-READ CAREFULLY: This VyPRESS End-User License Agreement (“EULA”) is a legal agreement between you (either an individual or a single entity) and VyPRESS Research, LLC for the VyPRESS software identified above, which includes computer software and may include associated media, printed materials, additional computer software applications, and “online” or electronic documentation (“SOFTWARE”).  By downloading, installing, copying, or otherwise using the SOFTWARE, you agree to be bound by the terms of this EULA.  If you do not agree to the terms of this EULA, do not install or use the SOFTWARE.
+
+SOFTWARE LICENSE
+
+Copyright laws and international copyright treaties, as well as other intellectual property laws and treaties protect the SOFTWARE. The SOFTWARE is licensed, not sold.
+1.	GRANT OF LICENSE.  This EULA grants you the following rights:
+a.	SOFTWARE. Except as otherwise provided herein, you, as an individual, may install and use copies of the SOFTWARE on an unlimited number of computers, including workstations, terminals or other digital electronic devices ("COMPUTERS"), provided that you are the only individual using the SOFTWARE.  If you are an entity, you may designate one individual within your organization to have the right to use the SOFTWARE in the manner provided above. The SOFTWARE is in "use" on a COMPUTER when it is loaded into temporary memory (i.e.. RAM) or installed into permanent memory (e.g., hard disk, CD-ROM, or other storage device) of that COMPUTER.b.	Client/Server Software. The SOFTWARE may contain one or more components, which consist of both of the following types of software: “Server Software” that is installed and provides services on a COMPUTER acting as a server (“Server”); and “Client Software” that allows a COMPUTER to access or utilize the services provided by the Server Software.  If the component of the SOFTWARE consists of both Server Software and Client Software, which are used together, you may also install and use copies of such Client Software on COMPUTERS within your organization and which are connected to your internal network. 
+ More than one individual may use such COMPUTERS running this Client Software.
+
+2.	DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS. 
+a.	Limitations on Reverse Engineering, Decompilation, and Disassembly. You may not reverse engineer, decompile, or disassemble the SOFTWARE, except and only to the extent that applicable law notwithstanding this limitation expressly permits such activity.
+b.	Rental. You may not rent, lease, or lend the SOFTWARE.
+c.	Support Services. VyPRESS Research, LLC does not support the SOFTWARE, however, in the event VyPRESS does provide you with support services related to the SOFTWARE (“Support Services”), use of such Support Services is governed by the VyPRESS policies and programs described in the user manual, in “online” documentation, and/or in other VyPRESS-provided materials. Any supplemental software code provided to you as part of the Support Services shall be considered part of the SOFTWARE and subject to the terms and conditions of this EULA. With respect to technical information you provide to VyPRESS as part of the Support Services, VyPRESS may use such information for its business purposes, including for product support and development. VyPRESS will not utilize such technical information in a form that personally identifies you.
+d.	Software Transfer. You may permanently transfer of all of your rights under this EULA, provided you retain no copies, you transfer all of the SOFTWARE (including all component parts, the media and printed materials, any upgrades, this EULA, and, if applicable, the Certificate of Authenticity), and the recipient agrees to the terms of this EULA.  If the SOFTWARE is an upgrade, any transfer must include all prior versions of the SOFTWARE.
+e.	Termination. Without prejudice to any other rights, VyPRESS may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE and all of its component parts.
+3.	UPGRADES. If the SOFTWARE is labeled as an upgrade, you must be properly licensed to use a product identified by VyPRESS as being eligible for the upgrade in order to use the SOFTWARE. SOFTWARE labeled as an upgrade replaces and/or supplements the product that formed the basis for your eligibility for the upgrade. You may use the resulting upgraded product only in accordance with the terms of this EULA. If the SOFTWARE is an upgrade of a component of a package of software programs that you licensed as a single product, the SOFTWARE may be used and transferred only as part of that single product package and may not be separated for use on more than one computer
+4.	INTELLECTUAL PROPERTY RIGHTS. All title and intellectual property rights in and to the SOFTWARE (including but not limited to any images, photographs, animations, video, audio, music, text and “applets” incorporated into the SOFTWARE), and any copies you are permitted to make herein are owned by VyPRESS or its suppliers.  All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties.  This EULA grants you no rights to use such content. If this SOFTWARE contains documentation which is provided only in electronic form, you may print one copy of such electronic documentation.  You may not copy the printed materials accompanying the SOFTWARE. 
+5.	U.S. GOVERNMENT LICENSE RIGHTS. SOFTWARE provided to the U.S. Government pursuant to solicitations issued on or after December 1, 1995 is provided with the commercial license rights and restrictions described elsewhere herein.  SOFTWARE provided to the U.S. Government pursuant to solicitations issued prior to December 1, 1995 is provided with “Restricted Rights” as provided for in FAR, 48 CFR 52.227-14 (JUNE 1987) or DFAR, 48 CFR 252.227-7013 (OCT 1988), as applicable. 
+6.	EXPORT RESTRICTIONS. You agree that you will not export or re-export the SOFTWARE (or portions thereof) to any country, person or entity subject to U.S. export restrictions.  You specifically agree not to export or re-export the SOFTWARE (or portions thereof): (i) to any country subject to a U.S. embargo or trade restriction; (ii) to any person or entity who you know or have reason to know will utilize the SOFTWARE (or portion thereof) in the production of nuclear, chemical or biological weapons; or (iii) to any person or entity who has been denied export privileges by the U.S. government. 
+7. DISCLAIMER OF WARRANTIES. To the maximum extent permitted by applicable law, VyPRESS and its suppliers provide the SOFTWARE and any (if any) Support Services AS IS AND WITH ALL FAULTS, and hereby disclaim all warranties and conditions, either express, implied or statutory, including, but not limited to, any (if any) implied warranties or conditions of merchantability, of fitness for a particular purpose, of lack of viruses, of accuracy or completeness of responses, of results, and of lack of negligence or lack of workmanlike effort, all with regard to the SOFTWARE, and the provision of or failure to provide Support Services.  ALSO, THERE IS NO WARRANTY OR CONDITION OF TITLE, QUIET ENJOYMENT, QUIET POSSESSION, AND CORRESPONDENCE TO DESCRIPTION OR NON-INFRINGEMENT, WITH REGARD TO THE SOFTWARE.  THE ENTIRE RISK AS TO THE QUALITY OF OR ARISING OUT OF USE OR PERFORMANCE OF THE SOFTWARE AND SUPPORT SERVICES, IF ANY, REMAINS WITH YOU.
+8. EXCLUSION OF INCIDENTAL, CONSEQUENTIAL AND CERTAIN OTHER DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL VYPRESS OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR FAILURE TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER PECUNIARY OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT SERVICES, OR OTHERWISE UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS EULA, EVEN IN THE EVENT OF THE FAULT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, BREACH OF CONTRACT OR BREACH OF WARRANTY OF VYPRESS OR ANY SUPPLIER, AND EVEN IF VYPRESS OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+9. LIMITATION OF LIABILITY AND REMEDIES. Notwithstanding any damages that you might incur for any reason whatsoever (including, without limitation, all damages referenced above and all direct or general damages), the entire liability of VyPRESS and any of its suppliers under any provision of this EULA and your exclusive remedy for all of the foregoing shall be limited to the greater of the amount actually paid by you for the SOFTWARE or U.S.$5.00.  The foregoing limitations, exclusions and disclaimers shall apply to the maximum extent permitted by applicable law, even if any remedy fails its essential purpose.
+10. APPLICABLE LAW.  If you acquired this SOFTWARE in the United States, the laws of the State of Delaware govern this EULA.  If this SOFTWARE was acquired outside the United States, then local law may apply.
+11. ENTIRE AGREEMENT.  This EULA (including any addendum or amendment to this EULA which is included with the SOFTWARE) is the entire agreement between you and VyPRESS relating to the SOFTWARE and the Support Services (if any) and it supersedes all prior or contemporaneous oral or written communications, proposals and representations with respect to the SOFTWARE or any other subject matter covered by this EULA.  To the extent the terms of any VyPRESS policies or programs for Support Services conflict with the terms of this EULA, the terms of this EULA shall control.
+12. QUESTIONS? Should you have any questions concerning this EULA, or if you desire to contact VyPRESS for any reason, please contact the VyPRESS subsidiary serving your country, or write sales@vypress.com</EULA>
+	</Permissions>
+	<Affiliates>
+		<Affiliates_FORM>Y</Affiliates_FORM>
+		<Affiliates_VERSION>1.4</Affiliates_VERSION>
+		<Affiliates_URL>http://www.asp-shareware.org/pad/extensions/Affiliates.htm</Affiliates_URL>
+		<Affiliates_Information_Page />
+		<Affiliates_Avangate_Order_Page />
+		<Affiliates_Avangate_Vendor_ID />
+		<Affiliates_Avangate_Product_ID />
+		<Affiliates_Avangate_Maximum_Commission_Rate />
+		<Affiliates_BMTMicro_Order_Page />
+		<Affiliates_BMTMicro_Vendor_ID />
+		<Affiliates_BMTMicro_Product_ID />
+		<Affiliates_BMTMicro_Maximum_Commission_Rate />
+		<Affiliates_Cleverbridge_Order_Page />
+		<Affiliates_Cleverbridge_Vendor_ID />
+		<Affiliates_Cleverbridge_Product_ID />
+		<Affiliates_Cleverbridge_Maximum_Commission_Rate />
+		<Affiliates_clixGalore_Order_Page />
+		<Affiliates_clixGalore_Vendor_ID />
+		<Affiliates_clixGalore_Product_ID />
+		<Affiliates_clixGalore_Maximum_Commission_Rate />
+		<Affiliates_CommissionJunction_Order_Page />
+		<Affiliates_CommissionJunction_Vendor_ID />
+		<Affiliates_CommissionJunction_Product_ID />
+		<Affiliates_CommissionJunction_Maximum_Commission_Rate />
+		<Affiliates_DigiBuy_Order_Page />
+		<Affiliates_DigiBuy_Vendor_ID />
+		<Affiliates_DigiBuy_Product_ID />
+		<Affiliates_DigiBuy_Maximum_Commission_Rate />
+		<Affiliates_DigitalCandle_Order_Page />
+		<Affiliates_DigitalCandle_Vendor_ID />
+		<Affiliates_DigitalCandle_Product_ID />
+		<Affiliates_DigitalCandle_Maximum_Commission_Rate />
+		<Affiliates_Emetrix_Order_Page />
+		<Affiliates_Emetrix_Vendor_ID />
+		<Affiliates_Emetrix_Product_ID />
+		<Affiliates_Emetrix_Maximum_Commission_Rate />
+		<Affiliates_eSellerate_Order_Page />
+		<Affiliates_eSellerate_Vendor_ID />
+		<Affiliates_eSellerate_Product_ID />
+		<Affiliates_eSellerate_Maximum_Commission_Rate />
+		<Affiliates_Kagi_Order_Page />
+		<Affiliates_Kagi_Vendor_ID />
+		<Affiliates_Kagi_Product_ID />
+		<Affiliates_Kagi_Maximum_Commission_Rate />
+		<Affiliates_LinkShare_Order_Page />
+		<Affiliates_LinkShare_Vendor_ID />
+		<Affiliates_LinkShare_Product_ID />
+		<Affiliates_LinkShare_Maximum_Commission_Rate />
+		<Affiliates_NorthStarSol_Order_Page />
+		<Affiliates_NorthStarSol_Vendor_ID />
+		<Affiliates_NorthStarSol_Product_ID />
+		<Affiliates_NorthStarSol_Maximum_Commission_Rate />
+		<Affiliates_OneNetworkDirect_Order_Page />
+		<Affiliates_OneNetworkDirect_Vendor_ID />
+		<Affiliates_OneNetworkDirect_Product_ID />
+		<Affiliates_OneNetworkDirect_Maximum_Commission_Rate />
+		<Affiliates_Order1_Order_Page />
+		<Affiliates_Order1_Vendor_ID />
+		<Affiliates_Order1_Product_ID />
+		<Affiliates_Order1_Maximum_Commission_Rate />
+		<Affiliates_Osolis_Order_Page />
+		<Affiliates_Osolis_Vendor_ID />
+		<Affiliates_Osolis_Product_ID />
+		<Affiliates_Osolis_Maximum_Commission_Rate />
+		<Affiliates_Plimus_Order_Page />
+		<Affiliates_Plimus_Vendor_ID />
+		<Affiliates_Plimus_Product_ID />
+		<Affiliates_Plimus_Maximum_Commission_Rate />
+		<Affiliates_Regnet_Order_Page />
+		<Affiliates_Regnet_Vendor_ID />
+		<Affiliates_Regnet_Product_ID />
+		<Affiliates_Regnet_Maximum_Commission_Rate />
+		<Affiliates_Regnow_Order_Page>https://www.regnow.com/softsell/nph-softsell.cgi?item=1349-1</Affiliates_Regnow_Order_Page>
+		<Affiliates_Regnow_Vendor_ID>1349</Affiliates_Regnow_Vendor_ID>
+		<Affiliates_Regnow_Product_ID>1349-1</Affiliates_Regnow_Product_ID>
+		<Affiliates_Regnow_Maximum_Commission_Rate />
+		<Affiliates_Regsoft_Order_Page />
+		<Affiliates_Regsoft_Vendor_ID />
+		<Affiliates_Regsoft_Product_ID />
+		<Affiliates_Regsoft_Maximum_Commission_Rate />
+		<Affiliates_ShareIt_Order_Page>https://secure.shareit.com/shareit/checkout.html?license=1&amp;productid=140478</Affiliates_ShareIt_Order_Page>
+		<Affiliates_ShareIt_Vendor_ID>11132</Affiliates_ShareIt_Vendor_ID>
+		<Affiliates_ShareIt_Product_ID>140478</Affiliates_ShareIt_Product_ID>
+		<Affiliates_ShareIt_Maximum_Commission_Rate />
+		<Affiliates_Shareasale_Order_Page />
+		<Affiliates_Shareasale_Vendor_ID />
+		<Affiliates_Shareasale_Product_ID />
+		<Affiliates_Shareasale_Maximum_Commission_Rate />
+		<Affiliates_SWReg_Order_Page />
+		<Affiliates_SWReg_Vendor_ID />
+		<Affiliates_SWReg_Product_ID />
+		<Affiliates_SWReg_Maximum_Commission_Rate />
+		<Affiliates_V-Share_Order_Page />
+		<Affiliates_V-Share_Vendor_ID />
+		<Affiliates_V-Share_Product_ID />
+		<Affiliates_V-Share_Maximum_Commission_Rate />
+		<Affiliates_VFree_Order_Page />
+		<Affiliates_VFree_Vendor_ID />
+		<Affiliates_VFree_Product_ID />
+		<Affiliates_VFree_Maximum_Commission_Rate />
+		<Affiliates_Yaskifo_Order_Page />
+		<Affiliates_Yaskifo_Vendor_ID />
+		<Affiliates_Yaskifo_Product_ID />
+		<Affiliates_Yaskifo_Maximum_Commission_Rate />
+	</Affiliates>
+  <VyPRESS_Site>
+    <BaseUrl>http://www.vypress.com</BaseUrl>
+    <Features>/products/messenger/features/</Features>
+    <Graphics>
+      <SmallIcon_URL>/img/icons/vm-ico.gif</SmallIcon_URL>
+    </Graphics>
+    <Note></Note>
+    <Note lang="ru"></Note>
+    <Network_Protocols>
+		<Proto>TCP/IP</Proto>
+    </Network_Protocols>
+  </VyPRESS_Site>
+</XML_DIZ_INFO>

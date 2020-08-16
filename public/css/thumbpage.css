@@ -1,0 +1,35 @@
+#ThumbsList
+{
+	margin: 0 auto 0 auto;
+	text-align: center;
+	padding: 0;
+	width: 600px;
+	list-style: none;
+}
+#ThumbsList li
+{
+	display: block;
+	float: left;
+	width: 50%;
+	margin: 10px 0;
+}
+#ThumbsList li a
+{
+    display: block;
+	opacity: 0.8;
+	-moz-opacity: 0.8;
+	filter: alpha(opacity=80);	
+}
+#ThumbsList li a:active, #ThumbsList li a:hover, #ThumbsList li a:focus
+{
+	opacity: 1;
+	-moz-opacity: 1;
+	filter: none;	
+	text-decoration: none;
+}
+#ThumbsList a em
+{
+	display: block;
+	font-style: normal;
+	font-weight: normal;
+}

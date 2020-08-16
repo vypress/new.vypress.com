@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<XML_DIZ_INFO>
+  <MASTER_PAD_VERSION_INFO>
+    <MASTER_PAD_VERSION></MASTER_PAD_VERSION>
+    <MASTER_PAD_EDITOR></MASTER_PAD_EDITOR>
+    <MASTER_PAD_INFO></MASTER_PAD_INFO>
+  </MASTER_PAD_VERSION_INFO>
+  <Company_Info>
+    <Company_Name>VyPRESS Research, LLC</Company_Name>
+    <Address_1>16192 Coastal Hwy</Address_1>
+    <Address_2 />
+    <City_Town>Lewes</City_Town>
+    <State_Province>Delaware</State_Province>
+    <Zip_Postal_Code>19958</Zip_Postal_Code>
+    <Country>USA</Country>
+    <Company_WebSite_URL>http://www.vypress.com</Company_WebSite_URL>
+    <Contact_Info>
+      <Author_First_Name>VyPRESS Research</Author_First_Name>
+      <Author_Last_Name>, LLC</Author_Last_Name>
+      <Author_Email>support@vypress.com</Author_Email>
+      <Contact_First_Name>VyPRESS Research</Contact_First_Name>
+      <Contact_Last_Name>, LLC</Contact_Last_Name>
+      <Contact_Email>support@vypress.com</Contact_Email>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>sales@vypress.com</Sales_Email>
+      <Support_Email>support@vypress.com</Support_Email>
+      <General_Email>support@vypress.com</General_Email>
+      <Sales_Phone />
+      <Support_Phone />
+      <General_Phone />
+      <Fax_Phone>+1 (508) 526-5876</Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <Program_Info>
+    <Program_Name>Vypress Chat</Program_Name>
+    <Program_Version>2.1.8</Program_Version>
+    <Program_Release_Month>12</Program_Release_Month>
+    <Program_Release_Day>11</Program_Release_Day>
+    <Program_Release_Year>2009</Program_Release_Year>
+    <Program_Cost_Dollars>19</Program_Cost_Dollars>
+    <Program_Cost_Other_Code />
+    <Program_Cost_Other />
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Minor Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win95,Win98,WinME,WinNT 4.x,Windows2000,WinXP,Windows2003,Windows Vista Starter,Windows Vista Home Basic,Windows Vista Home Premium,Windows Vista Business,Windows Vista Enterprise,Windows Vista Ultimate,Windows Vista Home Basic x64,Windows Vista Home Premium x64,Windows Vista Business x64,Windows Vista Enterprise x64,Windows Vista Ultimate x64</Program_OS_Support>
+    <Program_Language>English,Russian</Program_Language>
+    <Program_Specific_Category>Internet</Program_Specific_Category>
+    <Program_Change_Info>Several graphical user interface design changes.
+Support for customized emoticons that can be added by editing the "emoticons.xml" file.
+Remove several memory and resource leaks that caused the Chat to stop working.
+The platform level has risen. Minimum required OS version is Windows 2000.</Program_Change_Info>
+    <Program_Category_Class>Communications::Chat &amp; Instant Messaging</Program_Category_Class>
+    <Program_System_Requirements>8 MB RAM, 2 MB HDD space, a LAN connection</Program_System_Requirements>
+    <File_Info>
+      <File_Size_Bytes>1831936</File_Size_Bytes>
+      <File_Size_K>1789</File_Size_K>
+      <File_Size_MB>1.74</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>Y</Has_Expire_Info>
+      <Expire_Count>31</Expire_Count>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info />
+      <Expire_Month />
+      <Expire_Day />
+      <Expire_Year />
+    </Expire_Info>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>winpopup,network,lan,instant messaging,vypress,broadcast,chat,message,real-time,wan</Keywords>
+      <Char_Desc_45>Real-time serverless chat for local networks</Char_Desc_45>
+      <Char_Desc_80>Set up chat sessions among the members of your network.</Char_Desc_80>
+      <Char_Desc_250>Vypress Chat is a user-friendly application for real-time chatting in small or home office (SOHO) local networks. Vypress Chat works with TCP/IP network protocol. You get an interface comparable to mIRC's and ICQ-like functionality.</Char_Desc_250>
+      <Char_Desc_450>Vypress Chat is designed for office and home networks. It is fully self-configurable, works with TCP/IP network protocol, doesn't require a dedicated server and automatically maintains a list of online users in the network. Vypress Chat is a flexible, integrated solution expressly designed for fast, trouble-free installation and operation.</Char_Desc_450>
+      <Char_Desc_2000>Vypress Chat is a user-friendly application for real-time chatting in small or home office (SOHO) local networks. This unique chat software features an easy-to-understand format for text-based conferences and discussions. Vypress Chat does not require an Internet connection or a dedicated server to support discussions, and all users have equal access to the application's tools and functions. Vypress Chat enables individuals to instantly communicate about joint projects, and managers can send instantaneous memos to individuals, departments, or the entire company.
+Vypress Chat works with TCP/IP network protocol. You get an interface comparable to mIRC's graphical IRC interface, and system tray functionality similar to that of ICQ. Also available is IP Multicast protocol support. The IP Multicast allows Vypress Chat to operate over WANs or in complex routed network environment.</Char_Desc_2000>
+    </English>
+    <Russian>
+      <Keywords>winpopup, vypress, общение в локальной сети, отсылка сообщений, послать сообщение, обмен файлами, сетевой мессенджер</Keywords>
+      <Char_Desc_45>Функциональная программа для общения по LAN</Char_Desc_45>
+      <Char_Desc_80>Удобная и мощная программа для обмена сообщениями и файлами по локальным сетям</Char_Desc_80>
+      <Char_Desc_250>Программа для обмена текстовыми сообщениями и файлами по сети. Позволяет быстро отправлять сообщения и файлы, с поддержкой двух уровней важности, системой фильтрации. Масса возможностей и при этом очень удобный и приятный интерфейс.</Char_Desc_250>
+      <Char_Desc_450>Программа для обмена текстовыми сообщениями и файлами по локальным, территориально-распределенным и виртуальным приватным сетям. Позволяет быстро отправлять сообщения, с поддержкой двух уровней важности, системой фильтрации, аттачментов, полной поддержкой Windows XP, Vista. Масса возможностей, масса настроек и при этом очень удобный, приятный и "затягивающий" пользовательский интерфейс. Не требует сервера.</Char_Desc_450>
+      <Char_Desc_2000>Vypress Chat - самый простой и быстрый способ организовать передачу сообщений, многопользовательские конференции и контроль активности в локальной сети.
+Этот популярный продукт предназначен для средних и малых локальных сетей (до 300 компьютеров) с продуманным и очень удобным интерфейсом.
+Программа полностью "самонастраиваемая", не требует выделенного сервера и может быть быстро и без проблем развернута даже в сети без профессионального администратора. Поддерживаются графические значки настроения ("смайлы"), протоколирование всех переговоров в XML формат, Unicode, гетерогенные сети (есть версии для Linux), макросы, список присутствующих пользователей и множество других, полезных и удобных возможностей.
+Vypress Chat - это очень гибкое и интегрированное решение для офисных и домашних сетей.</Char_Desc_2000>
+    </Russian>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://www.vypress.com/products/chat/</Application_Info_URL>
+      <Application_Order_URL>http://www.vypress.com/buy/</Application_Order_URL>
+      <Application_Screenshot_URL>http://www.vypress.com/products/chat/screenshots/img/chatpad.jpg</Application_Screenshot_URL>
+      <Application_Icon_URL>http://www.vypress.com/img/icons/chat32.gif</Application_Icon_URL>
+      <Application_XML_File_URL>http://www.vypress.com/pads/chat.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://www.vypress.com/ftp/VyChat218.msi</Primary_Download_URL>
+      <Secondary_Download_URL />
+      <Additional_Download_URL_1>http://www.winmessenger.com/files/VyChat218.msi</Additional_Download_URL_1>
+    </Download_URLs>
+  </Web_Info>
+  <Permissions>
+    <Distribution_Permissions>This product can be freely distributed through the Internet. To publish it on a CD, please contact support@vypress.com</Distribution_Permissions>
+    <EULA>VyPRESS Research, LLC hereby licenses to you one electronic copy of the computer program you are about to install and related documentation (the "Software"). VyPRESS Research retains all right, title and interest in and to the Software. That Software and all parts thereof are the subject matter of various proprietary rights, including without limitation copyrights, trade secrets, patents and other similar intellectual and industrial property rights ("Proprietary Rights"). This License permits you to use the Software on a single personal computer or workstation and to make one copy of the Software in machine-readable form for backup purposes only. Within any such copy, you must reproduce the copyright notices and any other proprietary legends that were on the original downloaded copy of the Software.
+No license, right or interest in any trademark, trade name or service mark of VyPRESS Research, LLC or any third party is granted under this License. You acknowledge that neither this License, nor your subsequent registration of the Software (should you choose to register the Software) in no way shall be construed to provide an express or implied license to use, modify or improve any of the content of the Software, including without limitation, or any works, inventions, discoveries, technology or other items which are the subject matter of VyPRESS Research's Proprietary Rights or otherwise to use or exploit the Software or the Proprietary Rights in any matter not expressly permitted herein.</EULA>
+  </Permissions>
+  <Affiliates>
+    <Affiliates_FORM>Y</Affiliates_FORM>
+    <Affiliates_VERSION>1.4</Affiliates_VERSION>
+    <Affiliates_URL>http://www.asp-shareware.org/pad/extensions/Affiliates.htm</Affiliates_URL>
+    <Affiliates_Information_Page />
+    <Affiliates_Avangate_Order_Page />
+    <Affiliates_Avangate_Vendor_ID />
+    <Affiliates_Avangate_Product_ID />
+    <Affiliates_Avangate_Maximum_Commission_Rate />
+    <Affiliates_BMTMicro_Order_Page />
+    <Affiliates_BMTMicro_Vendor_ID />
+    <Affiliates_BMTMicro_Product_ID />
+    <Affiliates_BMTMicro_Maximum_Commission_Rate />
+    <Affiliates_Cleverbridge_Order_Page />
+    <Affiliates_Cleverbridge_Vendor_ID />
+    <Affiliates_Cleverbridge_Product_ID />
+    <Affiliates_Cleverbridge_Maximum_Commission_Rate />
+    <Affiliates_clixGalore_Order_Page />
+    <Affiliates_clixGalore_Vendor_ID />
+    <Affiliates_clixGalore_Product_ID />
+    <Affiliates_clixGalore_Maximum_Commission_Rate />
+    <Affiliates_CommissionJunction_Order_Page />
+    <Affiliates_CommissionJunction_Vendor_ID />
+    <Affiliates_CommissionJunction_Product_ID />
+    <Affiliates_CommissionJunction_Maximum_Commission_Rate />
+    <Affiliates_DigiBuy_Order_Page />
+    <Affiliates_DigiBuy_Vendor_ID />
+    <Affiliates_DigiBuy_Product_ID />
+    <Affiliates_DigiBuy_Maximum_Commission_Rate />
+    <Affiliates_DigitalCandle_Order_Page />
+    <Affiliates_DigitalCandle_Vendor_ID />
+    <Affiliates_DigitalCandle_Product_ID />
+    <Affiliates_DigitalCandle_Maximum_Commission_Rate />
+    <Affiliates_Emetrix_Order_Page />
+    <Affiliates_Emetrix_Vendor_ID />
+    <Affiliates_Emetrix_Product_ID />
+    <Affiliates_Emetrix_Maximum_Commission_Rate />
+    <Affiliates_eSellerate_Order_Page />
+    <Affiliates_eSellerate_Vendor_ID />
+    <Affiliates_eSellerate_Product_ID />
+    <Affiliates_eSellerate_Maximum_Commission_Rate />
+    <Affiliates_Kagi_Order_Page />
+    <Affiliates_Kagi_Vendor_ID />
+    <Affiliates_Kagi_Product_ID />
+    <Affiliates_Kagi_Maximum_Commission_Rate />
+    <Affiliates_LinkShare_Order_Page />
+    <Affiliates_LinkShare_Vendor_ID />
+    <Affiliates_LinkShare_Product_ID />
+    <Affiliates_LinkShare_Maximum_Commission_Rate />
+    <Affiliates_NorthStarSol_Order_Page />
+    <Affiliates_NorthStarSol_Vendor_ID />
+    <Affiliates_NorthStarSol_Product_ID />
+    <Affiliates_NorthStarSol_Maximum_Commission_Rate />
+    <Affiliates_OneNetworkDirect_Order_Page />
+    <Affiliates_OneNetworkDirect_Vendor_ID />
+    <Affiliates_OneNetworkDirect_Product_ID />
+    <Affiliates_OneNetworkDirect_Maximum_Commission_Rate />
+    <Affiliates_Order1_Order_Page />
+    <Affiliates_Order1_Vendor_ID />
+    <Affiliates_Order1_Product_ID />
+    <Affiliates_Order1_Maximum_Commission_Rate />
+    <Affiliates_Osolis_Order_Page />
+    <Affiliates_Osolis_Vendor_ID />
+    <Affiliates_Osolis_Product_ID />
+    <Affiliates_Osolis_Maximum_Commission_Rate />
+    <Affiliates_Plimus_Order_Page />
+    <Affiliates_Plimus_Vendor_ID />
+    <Affiliates_Plimus_Product_ID />
+    <Affiliates_Plimus_Maximum_Commission_Rate />
+    <Affiliates_Regnet_Order_Page />
+    <Affiliates_Regnet_Vendor_ID />
+    <Affiliates_Regnet_Product_ID />
+    <Affiliates_Regnet_Maximum_Commission_Rate />
+    <Affiliates_Regnow_Order_Page>https://www.regnow.com/softsell/nph-softsell.cgi?item=1349-3</Affiliates_Regnow_Order_Page>
+    <Affiliates_Regnow_Vendor_ID>1349</Affiliates_Regnow_Vendor_ID>
+    <Affiliates_Regnow_Product_ID>1349-3</Affiliates_Regnow_Product_ID>
+    <Affiliates_Regnow_Maximum_Commission_Rate>20</Affiliates_Regnow_Maximum_Commission_Rate>
+    <Affiliates_Regsoft_Order_Page />
+    <Affiliates_Regsoft_Vendor_ID />
+    <Affiliates_Regsoft_Product_ID />
+    <Affiliates_Regsoft_Maximum_Commission_Rate />
+    <Affiliates_ShareIt_Order_Page>https://secure.shareit.com/shareit/checkout.html?productid=140790</Affiliates_ShareIt_Order_Page>
+    <Affiliates_ShareIt_Vendor_ID>11132</Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID>140790</Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate>20</Affiliates_ShareIt_Maximum_Commission_Rate>
+    <Affiliates_Shareasale_Order_Page />
+    <Affiliates_Shareasale_Vendor_ID />
+    <Affiliates_Shareasale_Product_ID />
+    <Affiliates_Shareasale_Maximum_Commission_Rate />
+    <Affiliates_SWReg_Order_Page />
+    <Affiliates_SWReg_Vendor_ID />
+    <Affiliates_SWReg_Product_ID />
+    <Affiliates_SWReg_Maximum_Commission_Rate />
+    <Affiliates_V-Share_Order_Page />
+    <Affiliates_V-Share_Vendor_ID />
+    <Affiliates_V-Share_Product_ID />
+    <Affiliates_V-Share_Maximum_Commission_Rate />
+    <Affiliates_VFree_Order_Page />
+    <Affiliates_VFree_Vendor_ID />
+    <Affiliates_VFree_Product_ID />
+    <Affiliates_VFree_Maximum_Commission_Rate />
+    <Affiliates_Yaskifo_Order_Page />
+    <Affiliates_Yaskifo_Vendor_ID />
+    <Affiliates_Yaskifo_Product_ID />
+    <Affiliates_Yaskifo_Maximum_Commission_Rate />
+  </Affiliates>
+  <VyPRESS_Site>
+    <BaseUrl>http://www.vypress.com</BaseUrl>
+    <Features>/products/chat/features/</Features>
+    <Graphics>
+      <SmallIcon_URL>/img/icons/vc-ico.gif</SmallIcon_URL>
+    </Graphics>
+    <Note />
+    <Note lang="ru" />
+    <Network_Protocols>
+      <Proto>TCP/IP</Proto>
+    </Network_Protocols>
+  </VyPRESS_Site>
+</XML_DIZ_INFO>

@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XML_DIZ_INFO>
+<MASTER_PAD_VERSION_INFO>
+  <MASTER_PAD_VERSION>2.00</MASTER_PAD_VERSION>
+  <MASTER_PAD_EDITOR>RoboSoft</MASTER_PAD_EDITOR>
+  <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
+</MASTER_PAD_VERSION_INFO>
+  <RoboSoft>
+    <Company_UIN>CMP-0039097DECC</Company_UIN>
+    <Product_UIN>APP-004319A3100</Product_UIN>
+    <Search_String>Tonecast</Search_String>
+    <Comments_For_Reviewer></Comments_For_Reviewer>
+    <Additional_Categories></Additional_Categories>
+  </RoboSoft>
+  <Company_Info>
+    <Company_Name>VyPRESS Research, LLC</Company_Name>
+    <Address_1>25 Greystone Manor</Address_1>
+    <Address_2></Address_2>
+    <City_Town>Lewes</City_Town>
+    <State_Province>Delaware</State_Province>
+    <Zip_Postal_Code>19958</Zip_Postal_Code>
+    <Country>USA</Country>
+    <Company_WebSite_URL>http://www.vypress.com</Company_WebSite_URL>
+    <Contact_Info>
+      <Contact_First_Name>VyPRESS Research</Contact_First_Name>
+      <Contact_Last_Name>LLC</Contact_Last_Name>
+      <Contact_Email>submit-feedback@vypress.com</Contact_Email>
+      <Author_Email>support@vypress.com</Author_Email>
+      <Author_First_Name>VyPRESS</Author_First_Name>
+      <Author_Last_Name>Research</Author_Last_Name>
+    </Contact_Info>
+    <Support_Info>
+      <Sales_Email>sales@vypress.com</Sales_Email>
+      <Support_Email>support@vypress.com</Support_Email>
+      <General_Email>support@vypress.com</General_Email>
+      <Sales_Phone>+1-800-903-4152</Sales_Phone>
+      <Support_Phone></Support_Phone>
+      <General_Phone></General_Phone>
+      <Fax_Phone>+1 (508) 526-5876</Fax_Phone>
+    </Support_Info>
+  </Company_Info>
+  <ASP>
+    <ASP_FORM>Y</ASP_FORM>
+    <ASP_Member>Y</ASP_Member>
+    <ASP_Member_Number>04066</ASP_Member_Number>
+  </ASP>
+  <Program_Info>
+    <Program_Name>Vypress Tonecast</Program_Name>
+    <Program_Version>1.3</Program_Version>
+    <Program_Release_Month>05</Program_Release_Month>
+    <Program_Release_Day>14</Program_Release_Day>
+    <Program_Release_Year>2004</Program_Release_Year>
+    <Program_Cost_Dollars>49.90</Program_Cost_Dollars>
+    <Program_Type>Shareware</Program_Type>
+    <Program_Release_Status>Major Update</Program_Release_Status>
+    <Program_Install_Support>Install and Uninstall</Program_Install_Support>
+    <Program_OS_Support>Win95,Win98,WinME,WinXP,WinNT 4.x,Windows2000,Windows2003</Program_OS_Support>
+    <Program_Language>English</Program_Language>
+    <File_Info>
+      <Filename_Versioned>Tonecast13.exe</Filename_Versioned>
+      <Filename_Previous>Tonecast12.exe</Filename_Previous>
+      <Filename_Generic>Tonecast.exe</Filename_Generic>
+      <Filename_Long>VypressTonecast13.exe</Filename_Long>
+      <File_Size_Bytes>320736</File_Size_Bytes>
+      <File_Size_K>313</File_Size_K>
+      <File_Size_MB>0.3</File_Size_MB>
+    </File_Info>
+    <Expire_Info>
+      <Has_Expire_Info>Y</Has_Expire_Info>
+      <Expire_Count>31</Expire_Count>
+      <Expire_Based_On>Days</Expire_Based_On>
+      <Expire_Other_Info></Expire_Other_Info>
+      <Expire_Month></Expire_Month>
+      <Expire_Day></Expire_Day>
+      <Expire_Year></Expire_Year>
+    </Expire_Info>
+    <Program_Specific_Category>Audio</Program_Specific_Category>
+    <Program_Categories>Networking,Audio :: Utilities,Multimedia :: Authoring Tools</Program_Categories>
+    <Program_System_Requirements>8 MB RAM, 2 MB HDD space, a LAN connection</Program_System_Requirements>
+    <Includes_JAVA_VM>N</Includes_JAVA_VM>
+    <Includes_VB_Runtime>N</Includes_VB_Runtime>
+    <Includes_DirectX>N</Includes_DirectX>
+    <Program_Category_Class>Audio &amp; Multimedia::Audio Encoders/Decoders</Program_Category_Class>
+    <Limitations>No limitations</Limitations>
+    <Program_Cost_Other_Code></Program_Cost_Other_Code>
+    <Program_Cost_Other></Program_Cost_Other>
+    <Program_Change_Info>Version 1.3 greatly improves reliability and availability by increasing multi-threading usage and improves compatibility with Windows XP firewall. Online help was also updated and improved. In additional new plug-in for WinAMP 5.x is now available.</Program_Change_Info>
+    <Awards></Awards>
+  </Program_Info>
+  <Program_Descriptions>
+    <English>
+      <Keywords>audio,stream,network,lan,vypress,broadcast,voice</Keywords>
+      <Char_Desc_45>High fidelity audio streaming for LAN</Char_Desc_45>
+      <Char_Desc_80>Audio streaming software for LAN for creating network “radio” station in minutes</Char_Desc_80>
+      <Char_Desc_250>Vypress Tonecast is high-fidelity audio streaming software for LAN. It allows you to easily setup your own “radio” broadcasting over an existing infrastructure without the need for additional hardware or complex heaped software systems.</Char_Desc_250>
+      <Char_Desc_450>Vypress Tonecast is high-fidelity audio broadcasting software for local area networks. The program allows you to easily setup your own “radio” broadcasting over an existing LAN infrastructure without the need for additional hardware or complex heaped software systems. Vypress Tonecast uses real-time Assembler powered MPEG-2 codec and it ensures no dramatic traffic increase even on a 10 Mbit Ethernet network with CD-quality sound translation.</Char_Desc_450>
+      <Char_Desc_2000>Vypress Tonecast is high-fidelity audio broadcasting software for local area networks.
+
+Vypress Tonecast allows you to easily setup and utilise your own “radio” broadcasting over an existing LAN infrastructure without the need for additional hardware or complex heaped software systems.
+
+Vypress Tonecast contains two independent packages: both are small, simple and utilize very few system resources. A Server module, which performs the real-time audio compression and broadcasts it over a network and a client module which receives the audio.
+
+Vypress Tonecast uses real-time Assembler powered MPEG-2 coders/decoders, this ensures you will see no dramatic traffic increase even on a 10 Mbit Ethernet network with CD-quality sound translation.</Char_Desc_2000>
+    </English>
+    <German>
+      <Keywords>Audio, Stimme, Ton, Netz, Radio, LAN, Tonübertragung, Sprachnachrichten</Keywords>
+      <Char_Desc_45>Gründen Sie Ihre eigene LAN Rundfunkstation!</Char_Desc_45>
+      <Char_Desc_80>Ein Programm zur Einrichtung  gleichzeitiger Tonübertragung auf alle PCs im LAN.</Char_Desc_80>
+      <Char_Desc_250>Vypress Tonecast – ist eine Software zur Einrichtung eines HiFi- Rundfunks im ordinären Lokalnetz. Das Programm ermöglicht seine eigene Rundfunkstation auf der Basis des Computernetzes zu gründen.</Char_Desc_250>
+      <Char_Desc_450>Vypress Tonecast - ist eine Software zur Einrichtung eines HiFi- Rundfunks im ordinären Lokalnetz. Das Programm ermöglicht seine eigene Rundfunkstation auf der Basis des Computernetzes zu gründen, ohne über extra Einrichtungen zu verfügen. Es ermöglicht Tonübertragung in CD-Qualität vom lokalen CD-ROM, FM- Empfänger, sowie das gleichzeitige Verschicken von Sprachnachrichten auf alle PCs im Netz.</Char_Desc_450>
+      <Char_Desc_2000>Vypress Tonecast - ist eine Software zur Einrichtung des HiFi-Rundfunks im ordinären Lokalnetz. Das Programm ermöglicht seine eigene Rundfunkstation auf der Basis des Computernetzes zu gründen, ohne über extra Einrichtungen zu verfügen. Sie können Tonecast zur Tonübertragung in CD-Qualität vom lokalen CD-ROM, FM- Empfänger, MP3-Player, sowie das gleichzeitige Verschicken von Sprachnachrichten auf alle PCs im Netz. Die MPEG Komprimierungs-Algorythmen sind im Vypress Tonecast auf Assembler realisiert und sorgfältig optimiert. Wersuchen Sie es mit Vypress Tonecast und entdecken Sie neue Möglichkeiten des Netzwerks!</Char_Desc_2000>
+      <Keywords_1>Audio</Keywords_1>
+      <Keywords_2>Stimme</Keywords_2>
+      <Keywords_3>Ton</Keywords_3>
+      <Keywords_4>Netz</Keywords_4>
+      <Keywords_5>Radio</Keywords_5>
+      <Keywords_6>LAN</Keywords_6>
+      <Keywords_7>Tonübertragung</Keywords_7>
+      <Keywords_Space>Audio  Stimme  Ton  Netz  Radio  LAN  Tonübertragung  Sprachnachrichten</Keywords_Space>
+      <Keywords_8>Sprachnachrichten</Keywords_8>
+    </German>
+    <Russian>
+      <Keywords>аудио,голос,звук,сеть,поток,радио</Keywords>
+      <Char_Desc_45>Создайте собственную радиостанцию в LAN!</Char_Desc_45>
+      <Char_Desc_80>Программа для организации передачи звука одновременно на все компьютеры в LAN</Char_Desc_80>
+      <Char_Desc_250>Vypress Tonecast - это программное обеспечения для организации высококачественной аудиотрансляции по обычной локальной сети. Программа позволяет легко создать свою собственную «радиостанцию» на базе имеющейся компьютерной сети.</Char_Desc_250>
+      <Char_Desc_450>Vypress Tonecast - это программное обеспечения для организации высококачественной аудиотрансляции по обычной локальной сети. Программа позволяет легко создать свою собственную «радиостанцию» на базе имеющейся компьютерной сети, без приобретения какого-либо дополнительного оборудования. Возможна передача звука с CD-качеством с локального CD-ROM проигрывателя, FM-приёмника, а также передачи голосовых сообщений одновременно на все компьютеры сети.</Char_Desc_450>
+      <Char_Desc_2000>Vypress Tonecast™ (Вайпрэс тонкаст) — это программное обеспечения для организации высококачественной аудиотрансляции по обычной локальной сети.
+
+Он позволяет вам легко создать свою собственную локальную «радиостанцию» на базе имеющейся компьютерной сети, без приобретения какого-либо дополнительного оборудования.
+
+Вы можете использовать Tonecast как средство для организации передачи звука с CD-качеством с локального CD-ROM проигрывателя, FM-приёмника, MP3 проигрывателя, а также передачи неискаженных голосовых сообщений одновременно на все компьютеры сети. Алгоритмы сжатия MPEG в Vypress Tonecast реализованы на ассемблере и тщательно оптимизированы.
+
+Попробуйте этот уникальный и интересный продукт, и Вы увидите новые грани полезного использования вашей сети.</Char_Desc_2000>
+      <Keywords_1>аудио</Keywords_1>
+      <Keywords_2>голос</Keywords_2>
+      <Keywords_3>звук</Keywords_3>
+      <Keywords_4>сеть</Keywords_4>
+      <Keywords_5>поток</Keywords_5>
+      <Keywords_Space>аудио голос звук сеть поток радио</Keywords_Space>
+      <Keywords_6>радио</Keywords_6>
+    </Russian>
+    <Ukrainian>
+      <Keywords></Keywords>
+      <Char_Desc_45></Char_Desc_45>
+      <Char_Desc_80></Char_Desc_80>
+      <Char_Desc_250></Char_Desc_250>
+      <Char_Desc_450></Char_Desc_450>
+      <Char_Desc_2000></Char_Desc_2000>
+    </Ukrainian>
+  </Program_Descriptions>
+  <Web_Info>
+    <Application_URLs>
+      <Application_Info_URL>http://www.vypress.com/products/tonecast/</Application_Info_URL>
+      <Application_Order_URL>http://www.vypress.com/buy/</Application_Order_URL>
+      <Application_Screenshot_URL>http://www.vypress.com/products/tonecast/screenshots/img/tonecast-xp.gif</Application_Screenshot_URL>
+      <Application_Icon_URL>http://www.vypress.com/img/icons/tonecast32.gif</Application_Icon_URL>
+      <Application_XML_File_URL>http://www.vypress.com/pads/tonecast.xml</Application_XML_File_URL>
+    </Application_URLs>
+    <Download_URLs>
+      <Primary_Download_URL>http://www.vypress.com/ftp/Tonecast13.exe</Primary_Download_URL>
+      <Secondary_Download_URL>http://www.winmessenger.com/files/Tonecast13.exe</Secondary_Download_URL>
+      <Additional_Download_URL_1>http://download.vypress.net/ftp/Tonecast13.exe</Additional_Download_URL_1>
+      <Additional_Download_URL_2>ftp://ftp.winmessenger.com/Tonecast13.exe</Additional_Download_URL_2>
+    </Download_URLs>
+  </Web_Info>
+  <VyPRESS_Site>
+    <BaseUrl>http://www.vypress.com</BaseUrl>
+    <Graphics>
+      <SmallIcon_URL>/img/icons/tonecast-ico.gif</SmallIcon_URL>
+    </Graphics>
+    <Note>
+    <br /><img src="/products/img/dwxp2kMe98NT_W_3qrt_rgb.jpg" alt="Certified as Designed for Windows XP, 2000, NT4, Windows 95/98" style="margin-left:-5px" /><img height="20" src="/products/tonecast/img/winamp-plugins-logo-small.gif" alt="Available as WinAMP plug-in" />
+    </Note>
+    <Network_Protocols>
+		<Proto>TCP/IP</Proto>
+    </Network_Protocols>    
+  </VyPRESS_Site>
+  <Simtel>
+    <Simtel_FORM>Y</Simtel_FORM>
+    <SIMTEL_FORM_VER>1.6 11/26/2002</SIMTEL_FORM_VER>
+    <Simtel_Platform>win95 - Win95/Win98/WinME</Simtel_Platform>
+    <Simtel_Category>Misc. Sound/Audio Related Utilities</Simtel_Category>
+  </Simtel>
+  <Affiliates>
+    <Affiliates_FORM>Y</Affiliates_FORM>
+    <Affiliates_FORM_VER>1.1 12/04/2002</Affiliates_FORM_VER>
+    <Affiliates_Regsoft_Order_Page></Affiliates_Regsoft_Order_Page>
+    <Affiliates_Regsoft_Vendor_ID></Affiliates_Regsoft_Vendor_ID>
+    <Affiliates_Regsoft_Product_ID></Affiliates_Regsoft_Product_ID>
+    <Affiliates_Regsoft_Maximum_Commission_Rate></Affiliates_Regsoft_Maximum_Commission_Rate>
+    <Affiliates_Regnow_Order_Page></Affiliates_Regnow_Order_Page>
+    <Affiliates_Regnow_Vendor_ID></Affiliates_Regnow_Vendor_ID>
+    <Affiliates_Regnow_Product_ID></Affiliates_Regnow_Product_ID>
+    <Affiliates_Regnow_Maximum_Commission_Rate></Affiliates_Regnow_Maximum_Commission_Rate>
+    <Affiliates_ShareIt_Vendor_ID></Affiliates_ShareIt_Vendor_ID>
+    <Affiliates_ShareIt_Product_ID></Affiliates_ShareIt_Product_ID>
+    <Affiliates_ShareIt_Maximum_Commission_Rate></Affiliates_ShareIt_Maximum_Commission_Rate>
+  </Affiliates>
+  <Permissions>
+    <Distribution_Permissions>This product can be freely distributed through the Internet. To publish it on a CD, please contact support@vypress.com</Distribution_Permissions>
+    <EULA>END-USER LICENSE AGREEMENT FOR VYPRESS SOFTWARE
+VYPRESS TONECAST 
+IMPORTANT-READ CAREFULLY: This VyPRESS End-User License Agreement (“EULA”) is a legal agreement between you (either an individual or a single entity) and VyPRESS Research, LLC for the VyPRESS software identified above, which includes computer software and may include associated media, printed materials, additional computer software applications, and “online” or electronic documentation (“SOFTWARE”).  By downloading, installing, copying, or otherwise using the SOFTWARE, you agree to be bound by the terms of this EULA.  If you do not agree to the terms of this EULA, do not install or use the SOFTWARE.
+
+SOFTWARE LICENSE
+
+Copyright laws and international copyright treaties, as well as other intellectual property laws and treaties protect the SOFTWARE. The SOFTWARE is licensed, not sold.
+1.	GRANT OF LICENSE.  This EULA grants you the following rights:
+a.	SOFTWARE. Except as otherwise provided herein, you, as an individual, may install and use copies of the SOFTWARE on an unlimited number of computers, including workstations, terminals or other digital electronic devices ("COMPUTERS"), provided that you are the only individual using the SOFTWARE.  If you are an entity, you may designate one individual within your organization to have the right to use the SOFTWARE in the manner provided above. The SOFTWARE is in "use" on a COMPUTER when it is loaded into temporary memory (i.e.. RAM) or installed into permanent memory (e.g., hard disk, CD-ROM, or other storage device) of that COMPUTER.b.	Client/Server Software. The SOFTWARE may contain one or more components, which consist of both of the following types of software: “Server Software” that is installed and provides services on a COMPUTER acting as a server (“Server”); and “Client Software” that allows a COMPUTER to access or utilize the services provided by the Server Software.  If the component of the SOFTWARE consists of both Server Software and Client Software, which are used together, you may also install and use copies of such Client Software on COMPUTERS within your organization and which are connected to your internal network. 
+ More than one individual may use such COMPUTERS running this Client Software.
+
+2.	DESCRIPTION OF OTHER RIGHTS AND LIMITATIONS. 
+a.	Limitations on Reverse Engineering, Decompilation, and Disassembly. You may not reverse engineer, decompile, or disassemble the SOFTWARE, except and only to the extent that applicable law notwithstanding this limitation expressly permits such activity.
+b.	Rental. You may not rent, lease, or lend the SOFTWARE.
+c.	Support Services. VyPRESS Research, LLC does not support the SOFTWARE, however, in the event VyPRESS does provide you with support services related to the SOFTWARE (“Support Services”), use of such Support Services is governed by the VyPRESS policies and programs described in the user manual, in “online” documentation, and/or in other VyPRESS-provided materials. Any supplemental software code provided to you as part of the Support Services shall be considered part of the SOFTWARE and subject to the terms and conditions of this EULA. With respect to technical information you provide to VyPRESS as part of the Support Services, VyPRESS may use such information for its business purposes, including for product support and development. VyPRESS will not utilize such technical information in a form that personally identifies you.
+d.	Software Transfer. You may permanently transfer of all of your rights under this EULA, provided you retain no copies, you transfer all of the SOFTWARE (including all component parts, the media and printed materials, any upgrades, this EULA, and, if applicable, the Certificate of Authenticity), and the recipient agrees to the terms of this EULA.  If the SOFTWARE is an upgrade, any transfer must include all prior versions of the SOFTWARE.
+e.	Termination. Without prejudice to any other rights, VyPRESS may terminate this EULA if you fail to comply with the terms and conditions of this EULA. In such event, you must destroy all copies of the SOFTWARE and all of its component parts.
+3.	UPGRADES. If the SOFTWARE is labeled as an upgrade, you must be properly licensed to use a product identified by VyPRESS as being eligible for the upgrade in order to use the SOFTWARE. SOFTWARE labeled as an upgrade replaces and/or supplements the product that formed the basis for your eligibility for the upgrade. You may use the resulting upgraded product only in accordance with the terms of this EULA. If the SOFTWARE is an upgrade of a component of a package of software programs that you licensed as a single product, the SOFTWARE may be used and transferred only as part of that single product package and may not be separated for use on more than one computer
+4.	INTELLECTUAL PROPERTY RIGHTS. All title and intellectual property rights in and to the SOFTWARE (including but not limited to any images, photographs, animations, video, audio, music, text and “applets” incorporated into the SOFTWARE), and any copies you are permitted to make herein are owned by VyPRESS or its suppliers.  All title and intellectual property rights in and to the content which may be accessed through use of the SOFTWARE is the property of the respective content owner and may be protected by applicable copyright or other intellectual property laws and treaties.  This EULA grants you no rights to use such content. If this SOFTWARE contains documentation which is provided only in electronic form, you may print one copy of such electronic documentation.  You may not copy the printed materials accompanying the SOFTWARE. 
+5.	U.S. GOVERNMENT LICENSE RIGHTS. SOFTWARE provided to the U.S. Government pursuant to solicitations issued on or after December 1, 1995 is provided with the commercial license rights and restrictions described elsewhere herein.  SOFTWARE provided to the U.S. Government pursuant to solicitations issued prior to December 1, 1995 is provided with “Restricted Rights” as provided for in FAR, 48 CFR 52.227-14 (JUNE 1987) or DFAR, 48 CFR 252.227-7013 (OCT 1988), as applicable. 
+6.	EXPORT RESTRICTIONS. You agree that you will not export or re-export the SOFTWARE (or portions thereof) to any country, person or entity subject to U.S. export restrictions.  You specifically agree not to export or re-export the SOFTWARE (or portions thereof): (i) to any country subject to a U.S. embargo or trade restriction; (ii) to any person or entity who you know or have reason to know will utilize the SOFTWARE (or portion thereof) in the production of nuclear, chemical or biological weapons; or (iii) to any person or entity who has been denied export privileges by the U.S. government. 
+7. DISCLAIMER OF WARRANTIES. To the maximum extent permitted by applicable law, VyPRESS and its suppliers provide the SOFTWARE and any (if any) Support Services AS IS AND WITH ALL FAULTS, and hereby disclaim all warranties and conditions, either express, implied or statutory, including, but not limited to, any (if any) implied warranties or conditions of merchantability, of fitness for a particular purpose, of lack of viruses, of accuracy or completeness of responses, of results, and of lack of negligence or lack of workmanlike effort, all with regard to the SOFTWARE, and the provision of or failure to provide Support Services.  ALSO, THERE IS NO WARRANTY OR CONDITION OF TITLE, QUIET ENJOYMENT, QUIET POSSESSION, AND CORRESPONDENCE TO DESCRIPTION OR NON-INFRINGEMENT, WITH REGARD TO THE SOFTWARE.  THE ENTIRE RISK AS TO THE QUALITY OF OR ARISING OUT OF USE OR PERFORMANCE OF THE SOFTWARE AND SUPPORT SERVICES, IF ANY, REMAINS WITH YOU.
+8. EXCLUSION OF INCIDENTAL, CONSEQUENTIAL AND CERTAIN OTHER DAMAGES. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL VYPRESS OR ITS SUPPLIERS BE LIABLE FOR ANY SPECIAL, INCIDENTAL, INDIRECT, OR CONSEQUENTIAL DAMAGES WHATSOEVER (INCLUDING, BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS OR CONFIDENTIAL OR OTHER INFORMATION, FOR BUSINESS INTERRUPTION, FOR PERSONAL INJURY, FOR LOSS OF PRIVACY, FOR FAILURE TO MEET ANY DUTY INCLUDING OF GOOD FAITH OR OF REASONABLE CARE, FOR NEGLIGENCE, AND FOR ANY OTHER PECUNIARY OR OTHER LOSS WHATSOEVER) ARISING OUT OF OR IN ANY WAY RELATED TO THE USE OF OR INABILITY TO USE THE SOFTWARE, THE PROVISION OF OR FAILURE TO PROVIDE SUPPORT SERVICES, OR OTHERWISE UNDER OR IN CONNECTION WITH ANY PROVISION OF THIS EULA, EVEN IN THE EVENT OF THE FAULT, TORT (INCLUDING NEGLIGENCE), STRICT LIABILITY, BREACH OF CONTRACT OR BREACH OF WARRANTY OF VYPRESS OR ANY SUPPLIER, AND EVEN IF VYPRESS OR ANY SUPPLIER HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+9. LIMITATION OF LIABILITY AND REMEDIES. Notwithstanding any damages that you might incur for any reason whatsoever (including, without limitation, all damages referenced above and all direct or general damages), the entire liability of VyPRESS and any of its suppliers under any provision of this EULA and your exclusive remedy for all of the foregoing shall be limited to the greater of the amount actually paid by you for the SOFTWARE or U.S.$5.00.  The foregoing limitations, exclusions and disclaimers shall apply to the maximum extent permitted by applicable law, even if any remedy fails its essential purpose.
+10. APPLICABLE LAW.  If you acquired this SOFTWARE in the United States, the laws of the State of Delaware govern this EULA.  If this SOFTWARE was acquired outside the United States, then local law may apply.
+11. ENTIRE AGREEMENT.  This EULA (including any addendum or amendment to this EULA which is included with the SOFTWARE) is the entire agreement between you and VyPRESS relating to the SOFTWARE and the Support Services (if any) and it supersedes all prior or contemporaneous oral or written communications, proposals and representations with respect to the SOFTWARE or any other subject matter covered by this EULA.  To the extent the terms of any VyPRESS policies or programs for Support Services conflict with the terms of this EULA, the terms of this EULA shall control.
+12. QUESTIONS? Should you have any questions concerning this EULA, or if you desire to contact VyPRESS for any reason, please contact the VyPRESS subsidiary serving your country, or write sales@vypress.com</EULA>
+  </Permissions>
+  <Delphi>
+    <D1>FALSE</D1>
+    <D2>FALSE</D2>
+    <D3>FALSE</D3>
+    <D4>FALSE</D4>
+    <D5>FALSE</D5>
+    <D6>FALSE</D6>
+    <D7>FALSE</D7>
+    <BCB1>FALSE</BCB1>
+    <BCB3>FALSE</BCB3>
+    <BCB4>FALSE</BCB4>
+    <BCB5>FALSE</BCB5>
+    <BCB6>FALSE</BCB6>
+    <K1>FALSE</K1>
+    <K2></K2>
+    <K3></K3>
+    <D1_URL></D1_URL>
+    <D2_URL></D2_URL>
+    <D3_URL></D3_URL>
+    <D4_URL></D4_URL>
+    <D5_URL></D5_URL>
+    <D6_URL></D6_URL>
+    <D7_URL></D7_URL>
+    <BCB1_URL></BCB1_URL>
+    <BCB3_URL></BCB3_URL>
+    <BCB4_URL></BCB4_URL>
+    <BCB5_URL></BCB5_URL>
+    <BCB6_URL></BCB6_URL>
+    <K1_URL></K1_URL>
+    <K2_URL></K2_URL>
+    <K3_URL></K3_URL>
+    <Type></Type>
+    <Price></Price>
+    <Source></Source>
+    <File_Location></File_Location>
+    <Link_URL></Link_URL>
+    <Download_URL></Download_URL>
+    <Version></Version>
+    <Notes></Notes>
+  </Delphi>
+  <PADRING></PADRING>
+</XML_DIZ_INFO>
