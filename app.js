@@ -4,7 +4,6 @@ import React from 'react';
 import ReactDOMServer from 'react-dom/server';
 import SiteTreeControl from "./src/components/SiteTreeControl"
 import { StaticRouter } from "react-router-dom";
-import cookieParser from 'cookie-parser';
 import createError from 'http-errors';
 import express from 'express';
 import fs from 'fs';
@@ -14,9 +13,6 @@ import path from 'path';
 var app = express();
 
 app.use(logger('dev'));
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
-app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.get('/*', (req, res) => {
