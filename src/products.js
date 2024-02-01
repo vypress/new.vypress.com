@@ -14,8 +14,8 @@ export default [
         "programOsSupport": [
             "Windows"
         ],
-        "urlPrimDownload":"http://www.vypress.com/ftp/Auvis30.msi",
-        "urlAltDownload":"http://www.winmessenger.com/files/Auvis30.msi",
+        "urlPrimDownload":"https://www.vypress.com/ftp/Auvis30.msi",
+        "urlAltDownload":"https://www.winmessenger.com/files/Auvis30.msi",
         "linkFeatures":"/one_way_messenger/features/",
         "filename":"Auvis30.msi",
         "icon":"/images/icons/va-ico.gif",
@@ -39,8 +39,8 @@ export default [
         "programOsSupport": [
             "Windows"
         ],
-        "urlPrimDownload":"http://www.vypress.com/ftp/VyMes403.msi",
-        "urlAltDownload":"http://www.winmessenger.com/files/VyMes403.msi",
+        "urlPrimDownload":"https://www.vypress.com/ftp/VyMes403.msi",
+        "urlAltDownload":"https://www.winmessenger.com/files/VyMes403.msi",
         "linkFeatures":"/lan_instant_messenger/features/",
         "filename":"VyMes403.msi",
         "icon":"/images/icons/vm-ico.gif",
@@ -60,8 +60,8 @@ export default [
         "programOsSupport": [
             "Windows"
         ],
-        "urlPrimDownload":"http://www.vypress.com/ftp/VyChat219.msi",
-        "urlAltDownload":"http://www.winmessenger.com/files/VyChat219.msi",
+        "urlPrimDownload":"https://www.vypress.com/ftp/VyChat219.msi",
+        "urlAltDownload":"https://www.winmessenger.com/files/VyChat219.msi",
         "linkFeatures":"/lan_chat/features/",
         "filename":"VyChat219.msi",
         "icon":"/images/icons/vc-ico.gif",
@@ -83,8 +83,8 @@ export default [
             "Mac OS X",
             "Windows",
         ],
-        "urlPrimDownload":"http://www.vypress.com/ftp/ChatTerm10x32.zip",
-        "urlAltDownload":"http://www.winmessenger.com/files/ChatTerm10x32.zip",
+        "urlPrimDownload":"https://www.vypress.com/ftp/ChatTerm10x32.zip",
+        "urlAltDownload":"https://www.winmessenger.com/files/ChatTerm10x32.zip",
         "linkFeatures":"/free_chat/features/",
         "filename":"ChatTerm10x64.zip",
         "icon":"/images/icons/chatterm-ico.gif",
