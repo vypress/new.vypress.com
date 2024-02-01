@@ -165,7 +165,7 @@ Francis W.G.Hibbert, Consultant to Gate Gourmet London Ltd
         For more information about VyPRESS Research products, write the VyPRESS Support
 		Team at support@vypress.com.</p>
     <p>
-        &copy; <a href="/info/legal/">2020 VyPRESS Research. All Rights Reserved. Terms of
+        &copy; <a href="/info/legal/">2024 VyPRESS Research. All Rights Reserved. Terms of
 				use.</a></p>
     <p>
         This case study is for informational purposes only. VYPRESS MAKES NO

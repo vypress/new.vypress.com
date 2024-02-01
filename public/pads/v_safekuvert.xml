@@ -13,7 +13,7 @@
 		<State_Province>Delaware</State_Province>
 		<Zip_Postal_Code>19958</Zip_Postal_Code>
 		<Country>USA</Country>
-		<Company_WebSite_URL>http://www.safekuvert.com</Company_WebSite_URL>
+		<Company_WebSite_URL>http://www.vypress.com</Company_WebSite_URL>
 		<Contact_Info>
 			<Author_First_Name>VyPRESS Research</Author_First_Name>
 			<Author_Last_Name>, LLC</Author_Last_Name>
@@ -23,9 +23,9 @@
 			<Contact_Email>support@vypress.com</Contact_Email>
 		</Contact_Info>
 		<Support_Info>
-			<Sales_Email>sales@safekuvert.com</Sales_Email>
-			<Support_Email>support@safekuvert.com</Support_Email>
-			<General_Email>support@safekuvert.com</General_Email>
+			<Sales_Email>sales@vypress.com</Sales_Email>
+			<Support_Email>support@vypress.com</Support_Email>
+			<General_Email>support@vypress.com</General_Email>
 			<Sales_Phone />
 			<Support_Phone />
 			<General_Phone />
@@ -86,17 +86,16 @@
 	</Program_Descriptions>
 	<Web_Info>
 		<Application_URLs>
-			<Application_Info_URL>http://www.safekuvert.com</Application_Info_URL>
-			<Application_Order_URL>http://www.safekuvert.com</Application_Order_URL>
-			<Application_Screenshot_URL>http://www.safekuvert.com/files/skscreen.png</Application_Screenshot_URL>
-			<Application_Icon_URL>http://www.safekuvert.com/files/skico32.gif</Application_Icon_URL>
+			<Application_Info_URL>http://www.vypress.com/products/safekuvert/</Application_Info_URL>
+			<Application_Order_URL>http://www.vypress.com/products/safekuvert/</Application_Order_URL>
+			<Application_Screenshot_URL>http://www.vypress.com/products/safekuvert/files/skscreen.png</Application_Screenshot_URL>
+			<Application_Icon_URL>http://www.vypress.com/products/safekuvert/files/skico32.gif</Application_Icon_URL>
 			<Application_XML_File_URL>http://www.vypress.com/pads/v_safekuvert.xml</Application_XML_File_URL>
 		</Application_URLs>
 		<Download_URLs>
-			<Primary_Download_URL>http://www.safekuvert.com/files/SafeKuvert102.msi</Primary_Download_URL>
+			<Primary_Download_URL>http://www.vypress.com/ftp/SafeKuvert102.msi</Primary_Download_URL>
 			<Secondary_Download_URL />
 			<Additional_Download_URL_1>ftp://ftp.winmessenger.com/SafeKuvert102.msi</Additional_Download_URL_1>
-			<Additional_Download_URL_2>http://www.vypress.com/ftp/SafeKuvert102.msi</Additional_Download_URL_2>
 		</Download_URLs>
 	</Web_Info>
 	<Permissions>
@@ -203,7 +202,7 @@ No license, right or interest in any trademark, trade name or service mark of Vy
 		<Affiliates_Yaskifo_Maximum_Commission_Rate />
 	</Affiliates>
 	<VyPRESS_Site>
-		<BaseUrl>http://www.safekuvert.com</BaseUrl>
+		<BaseUrl>http://www.vypress.com/products/safekuvert/</BaseUrl>
 		<Graphics>
 			<SmallIcon_URL>/img/icons/skico16.png</SmallIcon_URL>
 		</Graphics>

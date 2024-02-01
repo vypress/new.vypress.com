@@ -91,24 +91,24 @@ With Vypress Chat no data can be sent outside of your office network, so, it is 
 <div className='prodBody'>
 
 <ProdEssentials Product='v_safekuvert'/>
-<h4>SafeKuvert is a computer application that provides the user with the ability to <a href='http://www.safekuvert.com'>encrypt, digitally sign, compress, and/or securely delete files</a> from the hard disk.</h4>
+<h4>SafeKuvert is a computer application that provides the user with the ability to <a href='/products/safekuvert/'>encrypt, digitally sign, compress, and/or securely delete files</a> from the hard disk.</h4>
 <p>The encrypted files can be decrypted only on the computer where the 
 						private key of a certificate of encryption was saved, but a private key of a 
 						recipient's certificate is not required in order to create an encoded file. The 
-						<a href='http://www.safekuvert.com'>digital signatures</a> can be verified on any computer where SafeKuvert is 
+						<a href='/products/safekuvert/'>digital signatures</a> can be verified on any computer where SafeKuvert is 
 						installed. The files can also be compressed before encoding is applied. 
-						Algorithms of <a href='http://www.safekuvert.com'>asymmetrical encryption</a> (RSA) ensure that data cannot be accessed 
+						Algorithms of <a href='/products/safekuvert/'>asymmetrical encryption</a> (RSA) ensure that data cannot be accessed 
 						even if the hardware in which an encoded file was stored is lost, or if the 
 						file is transferred through public, unsecured computer networks. The 
-						application actively uses the <a href='http://www.safekuvert.com'>Public Key Infrastructure</a> (PKI), which is built 
-						into Windows, as well as the standard <a href='http://www.safekuvert.com'>X-509 certificates</a> and the Windows Shell 
+						application actively uses the <a href='/products/safekuvert/'>Public Key Infrastructure</a> (PKI), which is built 
+						into Windows, as well as the standard <a href='/products/safekuvert/'>X-509 certificates</a> and the Windows Shell 
 						extensions, which makes using the program very easy and convenient.</p>
 </div>
 
 <div className='ButtonsRow'><div>
 <ul>
-<li><a href='http://www.safekuvert.com/screens.php'>screenshots</a></li>
-<li><a href='http://www.safekuvert.com/'>more info&hellip;</a></li>
+<li><a href='/products/safekuvert/screens.php'>screenshots</a></li>
+<li><a href='/products/safekuvert/'>more info&hellip;</a></li>
 </ul>
 </div></div>
 
